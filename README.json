@@ -34,7 +34,7 @@
             "last_commit": "2026-08-09T16:37:39Z",
             "owner": "realm",
             "repo": "SwiftLint",
-            "stars": 19704
+            "stars": 19701
           }
         },
         {
@@ -83,7 +83,7 @@
             "last_commit": "2026-07-24T14:53:59Z",
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14871
+            "stars": 14873
           }
         },
         {
@@ -94,7 +94,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-11T21:38:41Z",
+            "last_commit": "2026-08-17T23:08:39Z",
             "owner": "pointfreeco",
             "repo": "swift-dependencies",
             "stars": 2184
@@ -227,7 +227,7 @@
             "last_commit": "2026-06-24T14:58:10Z",
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 53080
+            "stars": 53090
           }
         },
         {
@@ -249,7 +249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:39:03.443Z",
+    "last_updated": "2026-08-17T23:41:32.879Z",
     "original_repository": "jphong1111/awesome-ios-developer",
     "original_repository_sha": "1450ec6badbf77692524575bd48edf60f75bbaad",
     "enhanced_repository": "enhansome/enhansome-ios-developer",
