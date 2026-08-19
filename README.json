@@ -1,256 +1,139 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "🚀 Start Here"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "A sensible learning order"
-    },
-    {
-      "description": "Use this as a starting point, not as a rule that every app must follow.",
-      "items": [],
-      "title": "The default stack"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SwiftLint",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35732214,
+                "language": "Swift",
+                "last_commit": "2026-08-09T16:37:39Z",
+                "owner": "realm",
+                "repo": "SwiftLint",
+                "stars": 19701
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "swift-format",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196084046,
+                "language": "Swift",
+                "last_commit": "2026-08-18T12:55:51Z",
+                "owner": "swiftlang",
+                "repo": "swift-format",
+                "stars": 2951
+              }
+            }
+          ],
+          "description": "Consistency matters more than allegiance to one style guide. Automate rules that are objective and leave design judgment to review.\nDo not make a build depend on a developer’s globally installed formatter or linter without documenting and pinning the expected version. Swift Package plugins, a repository tool installer, or CI-managed tooling make clean checkouts more reproducible.",
+          "node_type": "group",
+          "title": "Style and static analysis"
+        }
+      ],
       "title": "🧑‍💻 Swift and Xcode"
     },
     {
-      "description": "Consistency matters more than allegiance to one style guide. Automate rules that are objective and leave design judgment to review.",
+      "description": "Architecture should make change safer. It should not exist to maximize the number of folders, protocols, or diagrams.",
       "items": [
         {
-          "node_type": "item",
-          "title": "SwiftLint",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-09T16:37:39Z",
-            "owner": "realm",
-            "repo": "SwiftLint",
-            "stars": 19701
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "swift-format",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-18T12:55:51Z",
-            "owner": "swiftlang",
-            "repo": "swift-format",
-            "stars": 2951
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Composable Architecture",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261039251,
+                "language": "Swift",
+                "last_commit": "2026-07-24T14:53:59Z",
+                "owner": "pointfreeco",
+                "repo": "swift-composable-architecture",
+                "stars": 14875
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift Dependencies",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 543149227,
+                "language": "Swift",
+                "last_commit": "2026-08-18T23:18:20Z",
+                "owner": "pointfreeco",
+                "repo": "swift-dependencies",
+                "stars": 2184
+              }
+            }
+          ],
+          "description": "Architecture references:\nNo architecture is automatically “clean.” Judge it by dependency direction, testability, clarity, build performance, and how safely the team can change behavior.",
+          "node_type": "group",
+          "title": "Common patterns"
         }
       ],
-      "title": "Style and static analysis"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📱 Application and UI Fundamentals"
-    },
-    {
-      "description": "Architecture should make change safer. It should not exist to maximize the number of folders, protocols, or diagrams.",
-      "items": [],
       "title": "🧭 State, Architecture, and Navigation"
     },
     {
-      "description": "Initializer injection should be the default because it makes dependencies explicit and allows immutable storage. Property and method injection are useful when lifecycle or framework integration requires them. A composition root should assemble the concrete dependency graph near the application entry point.\nAvoid using a service locator or global singleton as invisible dependency injection. Shared stateless services can be reasonable, but shared mutable state needs explicit ownership and isolation.",
-      "items": [],
-      "title": "Dependency injection"
-    },
-    {
-      "description": "Architecture references:",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "The Composable Architecture",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-24T14:53:59Z",
-            "owner": "pointfreeco",
-            "repo": "swift-composable-architecture",
-            "stars": 14875
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swift Dependencies",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-18T23:18:20Z",
-            "owner": "pointfreeco",
-            "repo": "swift-dependencies",
-            "stars": 2184
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-ios",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21700699,
+                "language": "Swift",
+                "last_commit": "2026-06-24T14:58:10Z",
+                "owner": "vsouza",
+                "repo": "awesome-ios",
+                "stars": 53104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iOS Developer Roadmap",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121970354,
+                "language": "Swift",
+                "last_commit": "2024-01-25T09:57:30Z",
+                "owner": "BohdanOrlov",
+                "repo": "iOS-Developer-Roadmap",
+                "stars": 6418
+              }
+            }
+          ],
+          "description": "Prefer a recent official source when framework behavior, platform policy, security, privacy, or App Store requirements matter. Community material is most valuable for explanation, tradeoffs, and experience reports.",
+          "node_type": "group",
+          "title": "Discovery"
         }
       ],
-      "title": "Common patterns"
-    },
-    {
-      "description": "Choose storage from data semantics, not familiarity.",
-      "items": [],
-      "title": "💾 Persistence"
-    },
-    {
-      "description": "is for preferences and small property-list values. It is not a database, secure storage, or a good home for large encoded object graphs. Use unless an app group or a dedicated suite is required.",
-      "items": [],
-      "title": "UserDefaults"
-    },
-    {
-      "description": "Use URLs instead of hard-coded paths. Choose Documents, Application Support, Caches, or temporary storage according to ownership, backup behavior, and whether the data can be recreated. Use atomic writes where partial files would be harmful.",
-      "items": [],
-      "title": "File system"
-    },
-    {
-      "description": "SwiftData integrates a model layer with Swift and SwiftUI. Evaluate deployment targets, migration needs, CloudKit behavior, query complexity, and testability before choosing it.",
-      "items": [],
-      "title": "SwiftData"
-    },
-    {
-      "description": "Add a capability because the product needs it, then study its lifecycle, permissions, background behavior, and failure modes.\nRequest permission in context, explain the benefit before the system prompt, and make denial a supported product state. Include accurate usage-description strings for protected resources. Do not request capabilities “for later.”",
-      "items": [],
-      "title": "🧩 System Capabilities"
-    },
-    {
-      "description": "Use to evaluate a policy, and handle unavailable, unenrolled, locked-out, canceled, and fallback states. Biometrics authenticate device ownership or presence; they do not replace server-side authorization. Store protected secrets in the Keychain with an access-control policy appropriate to the product.",
-      "items": [],
-      "title": "Biometrics"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📦 Dependencies and Modularization"
-    },
-    {
-      "description": "These are options to evaluate, not a default shopping list.",
-      "items": [],
-      "title": "Useful packages and tools"
-    },
-    {
-      "description": "Tests should protect behavior that matters and make refactoring safer. A large test count is not evidence of useful coverage.",
-      "items": [],
-      "title": "🧪 Testing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Choose the right layer"
-    },
-    {
-      "description": "Use Swift Testing for new Swift unit tests when it fits the project. It supports parameterization, traits, tags, concurrency, and flexible suite organization.\nUse XCTest for UI tests, performance tests, Objective-C tests, and existing suites. Swift Testing and XCTest can coexist during incremental migration, but do not mix their APIs inside one test.",
-      "items": [],
-      "title": "Swift Testing and XCTest"
-    },
-    {
-      "description": "Run Accessibility Inspector audits and automate appropriate checks with XCUITest. Automated audits catch common issues but do not replace VoiceOver, Switch Control, keyboard, and real-device testing.",
-      "items": [],
-      "title": "Accessibility testing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🐛 Debugging, Performance, and Observability"
-    },
-    {
-      "description": "Use unified logging through . Choose subsystem, category, and level deliberately. Mark sensitive interpolated values as private and avoid logging secrets or full payloads.\nUse signposts for important intervals that need Instruments correlation. Use MetricKit and Xcode Organizer to understand behavior on distributed builds. Use crash reporting and product analytics only with clear privacy rules, retention, and consent where required.",
-      "items": [],
-      "title": "Logging and metrics"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "♿ Accessibility and Localization"
-    },
-    {
-      "description": "Security is risk management, not a checklist of tricks. Start with a threat model: identify assets, trust boundaries, attackers, abuse cases, and the impact of failure.",
-      "items": [],
-      "title": "🔐 Security and Privacy"
-    },
-    {
-      "description": "App Transport Security enforces secure connection requirements by default. Use narrowly scoped exceptions only when a documented compatibility requirement leaves no safer option.\nCertificate or public-key pinning adds operational risk. Use it only when the threat model justifies it and the team can support backup pins, certificate rotation, expiration, incident recovery, and remote failure. Do not copy deprecated examples or assume pinning replaces normal trust evaluation.",
-      "items": [],
-      "title": "Transport security and pinning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🚢 Distribution and Monetization"
-    },
-    {
-      "description": "TestFlight distributes beta builds and collects feedback before release. Test migration, account, notification, background, purchase, and server-compatibility behavior on TestFlight rather than assuming a development build is equivalent.",
-      "items": [],
-      "title": "TestFlight"
-    },
-    {
-      "description": "Read the App Review Guidelines before implementation decisions become expensive. Validate metadata, screenshots, privacy answers, support URLs, account deletion, review notes, and demo credentials before submission.",
-      "items": [],
-      "title": "App Store"
-    },
-    {
-      "description": "Production iOS development often includes APIs and patterns that are no longer the first choice for a new app. Learn enough to maintain them safely before attempting a migration.",
-      "items": [],
-      "title": "🧱 Legacy Code and Interoperability"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "📚 Learning Resources"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "awesome-ios",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-06-24T14:58:10Z",
-            "owner": "vsouza",
-            "repo": "awesome-ios",
-            "stars": 53101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iOS Developer Roadmap",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-01-25T09:57:30Z",
-            "owner": "BohdanOrlov",
-            "repo": "iOS-Developer-Roadmap",
-            "stars": 6418
-          }
-        }
-      ],
-      "title": "Discovery"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:41:28.770Z",
+    "last_updated": "2026-08-19T12:38:47.477Z",
     "original_repository": "jphong1111/awesome-ios-developer",
+    "original_repository_id": 356388461,
     "original_repository_sha": "1450ec6badbf77692524575bd48edf60f75bbaad",
     "enhanced_repository": "enhansome/enhansome-ios-developer",
     "enhanced_repository_description": null,
