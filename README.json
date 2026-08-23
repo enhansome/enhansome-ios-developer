@@ -60,7 +60,7 @@
                 "last_commit": "2026-07-24T14:53:59Z",
                 "owner": "pointfreeco",
                 "repo": "swift-composable-architecture",
-                "stars": 14879
+                "stars": 14880
               }
             },
             {
@@ -103,7 +103,7 @@
                 "last_commit": "2026-06-24T14:58:10Z",
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53134
+                "stars": 53144
               }
             },
             {
@@ -118,7 +118,7 @@
                 "last_commit": "2024-01-25T09:57:30Z",
                 "owner": "BohdanOrlov",
                 "repo": "iOS-Developer-Roadmap",
-                "stars": 6418
+                "stars": 6419
               }
             }
           ],
@@ -131,7 +131,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:39:54.626Z",
+    "last_updated": "2026-08-23T23:40:03.029Z",
     "original_repository": "jphong1111/awesome-ios-developer",
     "original_repository_id": 356388461,
     "original_repository_sha": "1450ec6badbf77692524575bd48edf60f75bbaad",
