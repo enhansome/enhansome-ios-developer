@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 35732214,
                 "language": "Swift",
-                "last_commit": "2026-08-21T20:30:20Z",
+                "last_commit": "2026-08-24T20:58:09Z",
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19707
+                "stars": 19709
               }
             },
             {
@@ -72,7 +72,7 @@
                 "archived": false,
                 "id": 543149227,
                 "language": "Swift",
-                "last_commit": "2026-08-22T18:23:45Z",
+                "last_commit": "2026-08-24T19:25:25Z",
                 "owner": "pointfreeco",
                 "repo": "swift-dependencies",
                 "stars": 2185
@@ -100,10 +100,10 @@
                 "archived": false,
                 "id": 35732214,
                 "language": "Swift",
-                "last_commit": "2026-08-21T20:30:20Z",
+                "last_commit": "2026-08-24T20:58:09Z",
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19707
+                "stars": 19709
               }
             },
             {
@@ -178,7 +178,7 @@
                 "last_commit": "2026-08-21T03:32:49Z",
                 "owner": "onevcat",
                 "repo": "Kingfisher",
-                "stars": 24390
+                "stars": 24392
               }
             },
             {
@@ -220,7 +220,7 @@
                 "archived": false,
                 "id": 543149227,
                 "language": "Swift",
-                "last_commit": "2026-08-22T18:23:45Z",
+                "last_commit": "2026-08-24T19:25:25Z",
                 "owner": "pointfreeco",
                 "repo": "swift-dependencies",
                 "stars": 2185
@@ -235,7 +235,7 @@
                 "archived": false,
                 "id": 96496250,
                 "language": "Swift",
-                "last_commit": "2026-08-22T20:24:25Z",
+                "last_commit": "2026-08-24T16:04:04Z",
                 "owner": "pointfreeco",
                 "repo": "swift-snapshot-testing",
                 "stars": 4323
@@ -305,7 +305,7 @@
                 "last_commit": "2026-07-16T06:42:48Z",
                 "owner": "yonaskolb",
                 "repo": "XcodeGen",
-                "stars": 8728
+                "stars": 8731
               }
             }
           ],
@@ -333,7 +333,7 @@
                 "last_commit": "2026-06-24T14:58:10Z",
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53149
+                "stars": 53154
               }
             },
             {
@@ -361,7 +361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:18:07.041Z",
+    "last_updated": "2026-08-24T23:41:23.266Z",
     "original_repository": "jphong1111/awesome-ios-developer",
     "original_repository_id": 356388461,
     "original_repository_sha": "1450ec6badbf77692524575bd48edf60f75bbaad",
