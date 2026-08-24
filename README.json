@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T20:30:20Z",
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19706
+                "stars": 19707
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 196084046,
                 "language": "Swift",
-                "last_commit": "2026-08-22T13:24:58Z",
+                "last_commit": "2026-08-24T01:44:16Z",
                 "owner": "swiftlang",
                 "repo": "swift-format",
-                "stars": 2951
+                "stars": 2952
               }
             }
           ],
@@ -60,7 +60,7 @@
                 "last_commit": "2026-07-24T14:53:59Z",
                 "owner": "pointfreeco",
                 "repo": "swift-composable-architecture",
-                "stars": 14880
+                "stars": 14883
               }
             },
             {
@@ -93,6 +93,236 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SwiftLint",
+              "description": "Enforce selected Swift style and correctness rules",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35732214,
+                "language": "Swift",
+                "last_commit": "2026-08-21T20:30:20Z",
+                "owner": "realm",
+                "repo": "SwiftLint",
+                "stars": 19707
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "swift-format",
+              "description": "Format Swift source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196084046,
+                "language": "Swift",
+                "last_commit": "2026-08-24T01:44:16Z",
+                "owner": "swiftlang",
+                "repo": "swift-format",
+                "stars": 2952
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftGen",
+              "description": "Generate type-safe resource access",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39166950,
+                "language": "Swift",
+                "last_commit": "2026-04-16T08:20:58Z",
+                "owner": "SwiftGen",
+                "repo": "SwiftGen",
+                "stars": 9547
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Periphery",
+              "description": "Detect unused Swift code",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 169972846,
+                "language": "Swift",
+                "last_commit": "2026-08-12T09:22:11Z",
+                "owner": "peripheryapp",
+                "repo": "periphery",
+                "stars": 6184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alamofire",
+              "description": "Networking features and request abstraction",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22458259,
+                "language": "Swift",
+                "last_commit": "2026-08-03T01:00:57Z",
+                "owner": "Alamofire",
+                "repo": "Alamofire",
+                "stars": 42419
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kingfisher",
+              "description": "Image downloading and caching",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33486016,
+                "language": "Swift",
+                "last_commit": "2026-08-21T03:32:49Z",
+                "owner": "onevcat",
+                "repo": "Kingfisher",
+                "stars": 24390
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SDWebImage",
+              "description": "Image loading and caching across Apple UI frameworks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 313419,
+                "language": "Objective-C",
+                "last_commit": "2026-04-15T03:36:16Z",
+                "owner": "SDWebImage",
+                "repo": "SDWebImage",
+                "stars": 25634
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The Composable Architecture",
+              "description": "Reducer-based application architecture",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261039251,
+                "language": "Swift",
+                "last_commit": "2026-07-24T14:53:59Z",
+                "owner": "pointfreeco",
+                "repo": "swift-composable-architecture",
+                "stars": 14883
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "swift-dependencies",
+              "description": "Dependency management designed for testability",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 543149227,
+                "language": "Swift",
+                "last_commit": "2026-08-22T18:23:45Z",
+                "owner": "pointfreeco",
+                "repo": "swift-dependencies",
+                "stars": 2185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "swift-snapshot-testing",
+              "description": "Snapshot tests for values and UI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96496250,
+                "language": "Swift",
+                "last_commit": "2026-08-22T20:24:25Z",
+                "owner": "pointfreeco",
+                "repo": "swift-snapshot-testing",
+                "stars": 4323
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quick",
+              "description": "and Nimble Behavior-style test organization and matchers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20506004,
+                "language": "Swift",
+                "last_commit": "2026-05-18T15:19:28Z",
+                "owner": "Quick",
+                "repo": "Quick",
+                "stars": 9827
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift Collections",
+              "description": "Additional data structures",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 339202510,
+                "language": "Swift",
+                "last_commit": "2026-08-24T06:07:25Z",
+                "owner": "apple",
+                "repo": "swift-collections",
+                "stars": 4481
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift Algorithms",
+              "description": "Sequence and collection algorithms",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 300135838,
+                "language": "Swift",
+                "last_commit": "2026-07-22T23:09:31Z",
+                "owner": "apple",
+                "repo": "swift-algorithms",
+                "stars": 6327
+              }
+            }
+          ],
+          "description": "These are options to evaluate, not a default shopping list.",
+          "node_type": "group",
+          "title": "Useful packages and tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "XcodeGen",
+              "description": "for generating Xcode projects from specifications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97716052,
+                "language": "Swift",
+                "last_commit": "2026-07-16T06:42:48Z",
+                "owner": "yonaskolb",
+                "repo": "XcodeGen",
+                "stars": 8728
+              }
+            }
+          ],
+          "description": "Modules should express ownership and dependency boundaries. They are not automatically an improvement.\nModularize when it provides one or more of these benefits:\nTrack build time before and after modularization. An excessive module graph can increase configuration, dependency, and linking costs.\nUseful tools:",
+          "node_type": "group",
+          "title": "Modularization"
+        }
+      ],
+      "title": "📦 Dependencies and Modularization"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "awesome-ios",
               "description": null,
               "children": [],
@@ -103,7 +333,7 @@
                 "last_commit": "2026-06-24T14:58:10Z",
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53144
+                "stars": 53149
               }
             },
             {
@@ -131,7 +361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:40:03.029Z",
+    "last_updated": "2026-08-24T14:18:07.041Z",
     "original_repository": "jphong1111/awesome-ios-developer",
     "original_repository_id": 356388461,
     "original_repository_sha": "1450ec6badbf77692524575bd48edf60f75bbaad",
