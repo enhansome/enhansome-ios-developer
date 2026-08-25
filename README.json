@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 35732214,
                 "language": "Swift",
-                "last_commit": "2026-08-24T20:58:09Z",
+                "last_commit": "2026-08-25T15:04:27Z",
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19709
+                "stars": 19708
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 196084046,
                 "language": "Swift",
-                "last_commit": "2026-08-24T01:44:16Z",
+                "last_commit": "2026-08-25T07:36:58Z",
                 "owner": "swiftlang",
                 "repo": "swift-format",
                 "stars": 2952
@@ -60,7 +60,7 @@
                 "last_commit": "2026-07-24T14:53:59Z",
                 "owner": "pointfreeco",
                 "repo": "swift-composable-architecture",
-                "stars": 14883
+                "stars": 14886
               }
             },
             {
@@ -100,10 +100,10 @@
                 "archived": false,
                 "id": 35732214,
                 "language": "Swift",
-                "last_commit": "2026-08-24T20:58:09Z",
+                "last_commit": "2026-08-25T15:04:27Z",
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19709
+                "stars": 19708
               }
             },
             {
@@ -115,7 +115,7 @@
                 "archived": false,
                 "id": 196084046,
                 "language": "Swift",
-                "last_commit": "2026-08-24T01:44:16Z",
+                "last_commit": "2026-08-25T07:36:58Z",
                 "owner": "swiftlang",
                 "repo": "swift-format",
                 "stars": 2952
@@ -148,7 +148,7 @@
                 "last_commit": "2026-08-12T09:22:11Z",
                 "owner": "peripheryapp",
                 "repo": "periphery",
-                "stars": 6184
+                "stars": 6182
               }
             },
             {
@@ -175,10 +175,10 @@
                 "archived": false,
                 "id": 33486016,
                 "language": "Swift",
-                "last_commit": "2026-08-25T02:08:04Z",
+                "last_commit": "2026-08-25T15:09:33Z",
                 "owner": "onevcat",
                 "repo": "Kingfisher",
-                "stars": 24392
+                "stars": 24393
               }
             },
             {
@@ -208,7 +208,7 @@
                 "last_commit": "2026-07-24T14:53:59Z",
                 "owner": "pointfreeco",
                 "repo": "swift-composable-architecture",
-                "stars": 14883
+                "stars": 14886
               }
             },
             {
@@ -238,7 +238,7 @@
                 "last_commit": "2026-08-24T16:04:04Z",
                 "owner": "pointfreeco",
                 "repo": "swift-snapshot-testing",
-                "stars": 4323
+                "stars": 4324
               }
             },
             {
@@ -265,7 +265,7 @@
                 "archived": false,
                 "id": 339202510,
                 "language": "Swift",
-                "last_commit": "2026-08-24T06:07:25Z",
+                "last_commit": "2026-08-25T21:03:00Z",
                 "owner": "apple",
                 "repo": "swift-collections",
                 "stars": 4481
@@ -283,7 +283,7 @@
                 "last_commit": "2026-07-22T23:09:31Z",
                 "owner": "apple",
                 "repo": "swift-algorithms",
-                "stars": 6327
+                "stars": 6328
               }
             }
           ],
@@ -305,7 +305,7 @@
                 "last_commit": "2026-07-16T06:42:48Z",
                 "owner": "yonaskolb",
                 "repo": "XcodeGen",
-                "stars": 8732
+                "stars": 8736
               }
             }
           ],
@@ -333,7 +333,7 @@
                 "last_commit": "2026-06-24T14:58:10Z",
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53157
+                "stars": 53165
               }
             },
             {
@@ -348,7 +348,7 @@
                 "last_commit": "2024-01-25T09:57:30Z",
                 "owner": "BohdanOrlov",
                 "repo": "iOS-Developer-Roadmap",
-                "stars": 6419
+                "stars": 6420
               }
             }
           ],
@@ -361,7 +361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:11:56.426Z",
+    "last_updated": "2026-08-25T23:43:26.150Z",
     "original_repository": "jphong1111/awesome-ios-developer",
     "original_repository_id": 356388461,
     "original_repository_sha": "1450ec6badbf77692524575bd48edf60f75bbaad",
