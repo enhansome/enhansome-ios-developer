@@ -175,7 +175,7 @@
                 "archived": false,
                 "id": 33486016,
                 "language": "Swift",
-                "last_commit": "2026-08-21T03:32:49Z",
+                "last_commit": "2026-08-25T02:08:04Z",
                 "owner": "onevcat",
                 "repo": "Kingfisher",
                 "stars": 24392
@@ -305,7 +305,7 @@
                 "last_commit": "2026-07-16T06:42:48Z",
                 "owner": "yonaskolb",
                 "repo": "XcodeGen",
-                "stars": 8731
+                "stars": 8732
               }
             }
           ],
@@ -333,7 +333,7 @@
                 "last_commit": "2026-06-24T14:58:10Z",
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53154
+                "stars": 53157
               }
             },
             {
@@ -361,7 +361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:41:23.266Z",
+    "last_updated": "2026-08-25T06:11:56.426Z",
     "original_repository": "jphong1111/awesome-ios-developer",
     "original_repository_id": 356388461,
     "original_repository_sha": "1450ec6badbf77692524575bd48edf60f75bbaad",
