@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 196084046,
                 "language": "Swift",
-                "last_commit": "2026-08-25T07:36:58Z",
+                "last_commit": "2026-08-27T08:39:16Z",
                 "owner": "swiftlang",
                 "repo": "swift-format",
                 "stars": 2952
@@ -60,7 +60,7 @@
                 "last_commit": "2026-07-24T14:53:59Z",
                 "owner": "pointfreeco",
                 "repo": "swift-composable-architecture",
-                "stars": 14886
+                "stars": 14888
               }
             },
             {
@@ -115,7 +115,7 @@
                 "archived": false,
                 "id": 196084046,
                 "language": "Swift",
-                "last_commit": "2026-08-25T07:36:58Z",
+                "last_commit": "2026-08-27T08:39:16Z",
                 "owner": "swiftlang",
                 "repo": "swift-format",
                 "stars": 2952
@@ -163,7 +163,7 @@
                 "last_commit": "2026-08-03T01:00:57Z",
                 "owner": "Alamofire",
                 "repo": "Alamofire",
-                "stars": 42422
+                "stars": 42423
               }
             },
             {
@@ -178,7 +178,7 @@
                 "last_commit": "2026-08-25T15:09:33Z",
                 "owner": "onevcat",
                 "repo": "Kingfisher",
-                "stars": 24395
+                "stars": 24394
               }
             },
             {
@@ -208,7 +208,7 @@
                 "last_commit": "2026-07-24T14:53:59Z",
                 "owner": "pointfreeco",
                 "repo": "swift-composable-architecture",
-                "stars": 14886
+                "stars": 14888
               }
             },
             {
@@ -305,7 +305,7 @@
                 "last_commit": "2026-07-16T06:42:48Z",
                 "owner": "yonaskolb",
                 "repo": "XcodeGen",
-                "stars": 8737
+                "stars": 8738
               }
             }
           ],
@@ -333,7 +333,7 @@
                 "last_commit": "2026-06-24T14:58:10Z",
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53178
+                "stars": 53183
               }
             },
             {
@@ -361,9 +361,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:33:20.263Z",
-    "original_repository": "jphong1111/awesome-ios-developer",
-    "original_repository_id": 356388461,
+    "last_updated": "2026-08-27T11:46:28.580Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 356388461,
+      "language": "Swift",
+      "last_commit": "2026-07-19T06:11:58Z",
+      "owner": "jphong1111",
+      "repo": "awesome-ios-developer",
+      "stars": 848
+    },
     "original_repository_sha": "1450ec6badbf77692524575bd48edf60f75bbaad",
     "enhanced_repository": "enhansome/enhansome-ios-developer",
     "enhanced_repository_description": null,
