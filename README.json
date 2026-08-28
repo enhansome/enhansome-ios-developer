@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-26T22:05:55Z",
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19712
-              }
+                "stars": 19713
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "swiftlang",
                 "repo": "swift-format",
                 "stars": 2952
-              }
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             }
           ],
           "description": "Consistency matters more than allegiance to one style guide. Automate rules that are objective and leave design judgment to review.\nDo not make a build depend on a developer’s globally installed formatter or linter without documenting and pinning the expected version. Swift Package plugins, a repository tool installer, or CI-managed tooling make clean checkouts more reproducible.",
@@ -57,11 +59,12 @@
                 "archived": false,
                 "id": 261039251,
                 "language": "Swift",
-                "last_commit": "2026-07-24T14:53:59Z",
+                "last_commit": "2026-08-28T00:11:44Z",
                 "owner": "pointfreeco",
                 "repo": "swift-composable-architecture",
-                "stars": 14888
-              }
+                "stars": 14889
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             },
             {
               "node_type": "item",
@@ -72,11 +75,12 @@
                 "archived": false,
                 "id": 543149227,
                 "language": "Swift",
-                "last_commit": "2026-08-24T19:25:25Z",
+                "last_commit": "2026-08-27T20:15:16Z",
                 "owner": "pointfreeco",
                 "repo": "swift-dependencies",
                 "stars": 2185
-              }
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             }
           ],
           "description": "Architecture references:\nNo architecture is automatically “clean.” Judge it by dependency direction, testability, clarity, build performance, and how safely the team can change behavior.",
@@ -103,8 +107,9 @@
                 "last_commit": "2026-08-26T22:05:55Z",
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19712
-              }
+                "stars": 19713
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             },
             {
               "node_type": "item",
@@ -119,7 +124,8 @@
                 "owner": "swiftlang",
                 "repo": "swift-format",
                 "stars": 2952
-              }
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             },
             {
               "node_type": "item",
@@ -134,7 +140,8 @@
                 "owner": "SwiftGen",
                 "repo": "SwiftGen",
                 "stars": 9547
-              }
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             },
             {
               "node_type": "item",
@@ -149,7 +156,8 @@
                 "owner": "peripheryapp",
                 "repo": "periphery",
                 "stars": 6182
-              }
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             },
             {
               "node_type": "item",
@@ -164,7 +172,8 @@
                 "owner": "Alamofire",
                 "repo": "Alamofire",
                 "stars": 42423
-              }
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             },
             {
               "node_type": "item",
@@ -178,8 +187,9 @@
                 "last_commit": "2026-08-25T15:09:33Z",
                 "owner": "onevcat",
                 "repo": "Kingfisher",
-                "stars": 24394
-              }
+                "stars": 24393
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             },
             {
               "node_type": "item",
@@ -193,8 +203,9 @@
                 "last_commit": "2026-04-15T03:36:16Z",
                 "owner": "SDWebImage",
                 "repo": "SDWebImage",
-                "stars": 25634
-              }
+                "stars": 25632
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             },
             {
               "node_type": "item",
@@ -205,11 +216,12 @@
                 "archived": false,
                 "id": 261039251,
                 "language": "Swift",
-                "last_commit": "2026-07-24T14:53:59Z",
+                "last_commit": "2026-08-28T00:11:44Z",
                 "owner": "pointfreeco",
                 "repo": "swift-composable-architecture",
-                "stars": 14888
-              }
+                "stars": 14889
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             },
             {
               "node_type": "item",
@@ -220,11 +232,12 @@
                 "archived": false,
                 "id": 543149227,
                 "language": "Swift",
-                "last_commit": "2026-08-24T19:25:25Z",
+                "last_commit": "2026-08-27T20:15:16Z",
                 "owner": "pointfreeco",
                 "repo": "swift-dependencies",
                 "stars": 2185
-              }
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             },
             {
               "node_type": "item",
@@ -239,7 +252,8 @@
                 "owner": "pointfreeco",
                 "repo": "swift-snapshot-testing",
                 "stars": 4324
-              }
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             },
             {
               "node_type": "item",
@@ -254,7 +268,8 @@
                 "owner": "Quick",
                 "repo": "Quick",
                 "stars": 9827
-              }
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             },
             {
               "node_type": "item",
@@ -265,11 +280,12 @@
                 "archived": false,
                 "id": 339202510,
                 "language": "Swift",
-                "last_commit": "2026-08-25T21:03:00Z",
+                "last_commit": "2026-08-27T22:08:24Z",
                 "owner": "apple",
                 "repo": "swift-collections",
-                "stars": 4481
-              }
+                "stars": 4482
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             },
             {
               "node_type": "item",
@@ -283,8 +299,9 @@
                 "last_commit": "2026-07-22T23:09:31Z",
                 "owner": "apple",
                 "repo": "swift-algorithms",
-                "stars": 6327
-              }
+                "stars": 6330
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             }
           ],
           "description": "These are options to evaluate, not a default shopping list.",
@@ -305,8 +322,9 @@
                 "last_commit": "2026-07-16T06:42:48Z",
                 "owner": "yonaskolb",
                 "repo": "XcodeGen",
-                "stars": 8738
-              }
+                "stars": 8741
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             }
           ],
           "description": "Modules should express ownership and dependency boundaries. They are not automatically an improvement.\nModularize when it provides one or more of these benefits:\nTrack build time before and after modularization. An excessive module graph can increase configuration, dependency, and linking costs.\nUseful tools:",
@@ -330,11 +348,12 @@
                 "archived": false,
                 "id": 21700699,
                 "language": "Swift",
-                "last_commit": "2026-06-24T14:58:10Z",
+                "last_commit": "2026-08-27T19:34:29Z",
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53183
-              }
+                "stars": 53186
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             },
             {
               "node_type": "item",
@@ -349,7 +368,8 @@
                 "owner": "BohdanOrlov",
                 "repo": "iOS-Developer-Roadmap",
                 "stars": 6420
-              }
+              },
+              "first_seen": "2026-08-28T06:57:38.890Z"
             }
           ],
           "description": "Prefer a recent official source when framework behavior, platform policy, security, privacy, or App Store requirements matter. Community material is most valuable for explanation, tradeoffs, and experience reports.",
@@ -361,7 +381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:46:28.580Z",
+    "last_updated": "2026-08-28T06:57:38.890Z",
     "original_repository_info": {
       "archived": false,
       "id": 356388461,
