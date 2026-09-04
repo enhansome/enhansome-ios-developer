@@ -17,11 +17,11 @@
                 "id": 35732214,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-01T08:09:12Z",
-                "open_issues": 500,
+                "last_commit": "2026-09-03T08:54:17Z",
+                "open_issues": 498,
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19717,
+                "stars": 19719,
                 "topics": [
                   "code-quality",
                   "hacktoberfest",
@@ -45,7 +45,7 @@
                 "id": 196084046,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T17:32:58Z",
+                "last_commit": "2026-09-03T08:53:28Z",
                 "open_issues": 182,
                 "owner": "swiftlang",
                 "repo": "swift-format",
@@ -83,7 +83,7 @@
                 "open_issues": 25,
                 "owner": "pointfreeco",
                 "repo": "swift-composable-architecture",
-                "stars": 14891,
+                "stars": 14893,
                 "topics": [
                   "architecture",
                   "composition",
@@ -111,7 +111,7 @@
                 "open_issues": 14,
                 "owner": "pointfreeco",
                 "repo": "swift-dependencies",
-                "stars": 2186,
+                "stars": 2187,
                 "topics": [
                   "architecture",
                   "dependency-injection",
@@ -146,11 +146,11 @@
                 "id": 35732214,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-01T08:09:12Z",
-                "open_issues": 500,
+                "last_commit": "2026-09-03T08:54:17Z",
+                "open_issues": 498,
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19717,
+                "stars": 19719,
                 "topics": [
                   "code-quality",
                   "hacktoberfest",
@@ -174,7 +174,7 @@
                 "id": 196084046,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T17:32:58Z",
+                "last_commit": "2026-09-03T08:53:28Z",
                 "open_issues": 182,
                 "owner": "swiftlang",
                 "repo": "swift-format",
@@ -199,7 +199,7 @@
                 "open_issues": 157,
                 "owner": "SwiftGen",
                 "repo": "SwiftGen",
-                "stars": 9546,
+                "stars": 9547,
                 "topics": [
                   "code-generator",
                   "ios",
@@ -259,7 +259,7 @@
                 "open_issues": 44,
                 "owner": "Alamofire",
                 "repo": "Alamofire",
-                "stars": 42428,
+                "stars": 42426,
                 "topics": [
                   "alamofire",
                   "carthage",
@@ -296,7 +296,7 @@
                 "open_issues": 170,
                 "owner": "onevcat",
                 "repo": "Kingfisher",
-                "stars": 24393,
+                "stars": 24389,
                 "topics": [
                   "cache",
                   "filters",
@@ -327,7 +327,7 @@
                 "open_issues": 131,
                 "owner": "SDWebImage",
                 "repo": "SDWebImage",
-                "stars": 25634,
+                "stars": 25635,
                 "topics": [
                   "cache",
                   "carthage",
@@ -365,7 +365,7 @@
                 "open_issues": 25,
                 "owner": "pointfreeco",
                 "repo": "swift-composable-architecture",
-                "stars": 14891,
+                "stars": 14893,
                 "topics": [
                   "architecture",
                   "composition",
@@ -393,7 +393,7 @@
                 "open_issues": 14,
                 "owner": "pointfreeco",
                 "repo": "swift-dependencies",
-                "stars": 2186,
+                "stars": 2187,
                 "topics": [
                   "architecture",
                   "dependency-injection",
@@ -419,7 +419,7 @@
                 "open_issues": 220,
                 "owner": "pointfreeco",
                 "repo": "swift-snapshot-testing",
-                "stars": 4326,
+                "stars": 4327,
                 "topics": [
                   "screenshot-testing",
                   "snapshot-testing",
@@ -537,7 +537,7 @@
                 "open_issues": 404,
                 "owner": "yonaskolb",
                 "repo": "XcodeGen",
-                "stars": 8750,
+                "stars": 8753,
                 "topics": [
                   "ci",
                   "cli",
@@ -581,7 +581,7 @@
                 "open_issues": 25,
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53250,
+                "stars": 53266,
                 "topics": [
                   "apple-swift",
                   "arkit",
@@ -616,7 +616,7 @@
                 "open_issues": 11,
                 "owner": "BohdanOrlov",
                 "repo": "iOS-Developer-Roadmap",
-                "stars": 6420,
+                "stars": 6419,
                 "topics": [
                   "architecture",
                   "interview",
@@ -641,7 +641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T01:11:44.986Z",
+    "last_updated": "2026-09-04T01:04:04.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
@@ -653,7 +653,7 @@
       "open_issues": 7,
       "owner": "jphong1111",
       "repo": "awesome-ios-developer",
-      "stars": 846,
+      "stars": 847,
       "topics": [
         "apple",
         "awesome",
