@@ -17,11 +17,11 @@
                 "id": 35732214,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-03T08:54:17Z",
-                "open_issues": 503,
+                "last_commit": "2026-09-18T14:53:55Z",
+                "open_issues": 512,
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19740,
+                "stars": 19739,
                 "topics": [
                   "code-quality",
                   "hacktoberfest",
@@ -46,10 +46,10 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T20:51:28Z",
-                "open_issues": 186,
+                "open_issues": 190,
                 "owner": "swiftlang",
                 "repo": "swift-format",
-                "stars": 2957,
+                "stars": 2956,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:38.890Z"
@@ -79,11 +79,11 @@
                 "id": 261039251,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-08-28T21:10:35Z",
-                "open_issues": 25,
+                "last_commit": "2026-09-18T18:51:18Z",
+                "open_issues": 23,
                 "owner": "pointfreeco",
                 "repo": "swift-composable-architecture",
-                "stars": 14918,
+                "stars": 14921,
                 "topics": [
                   "architecture",
                   "composition",
@@ -146,11 +146,11 @@
                 "id": 35732214,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-03T08:54:17Z",
-                "open_issues": 503,
+                "last_commit": "2026-09-18T14:53:55Z",
+                "open_issues": 512,
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19740,
+                "stars": 19739,
                 "topics": [
                   "code-quality",
                   "hacktoberfest",
@@ -175,10 +175,10 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T20:51:28Z",
-                "open_issues": 186,
+                "open_issues": 190,
                 "owner": "swiftlang",
                 "repo": "swift-format",
-                "stars": 2957,
+                "stars": 2956,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:38.890Z"
@@ -199,7 +199,7 @@
                 "open_issues": 157,
                 "owner": "SwiftGen",
                 "repo": "SwiftGen",
-                "stars": 9550,
+                "stars": 9549,
                 "topics": [
                   "code-generator",
                   "ios",
@@ -232,7 +232,7 @@
                 "open_issues": 0,
                 "owner": "peripheryapp",
                 "repo": "periphery",
-                "stars": 6183,
+                "stars": 6182,
                 "topics": [
                   "apple",
                   "ios",
@@ -296,7 +296,7 @@
                 "open_issues": 175,
                 "owner": "onevcat",
                 "repo": "Kingfisher",
-                "stars": 24403,
+                "stars": 24405,
                 "topics": [
                   "cache",
                   "filters",
@@ -327,7 +327,7 @@
                 "open_issues": 131,
                 "owner": "SDWebImage",
                 "repo": "SDWebImage",
-                "stars": 25627,
+                "stars": 25629,
                 "topics": [
                   "cache",
                   "carthage",
@@ -361,11 +361,11 @@
                 "id": 261039251,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-08-28T21:10:35Z",
-                "open_issues": 25,
+                "last_commit": "2026-09-18T18:51:18Z",
+                "open_issues": 23,
                 "owner": "pointfreeco",
                 "repo": "swift-composable-architecture",
-                "stars": 14918,
+                "stars": 14921,
                 "topics": [
                   "architecture",
                   "composition",
@@ -445,7 +445,7 @@
                 "open_issues": 49,
                 "owner": "Quick",
                 "repo": "Quick",
-                "stars": 9826,
+                "stars": 9825,
                 "topics": [
                   "bdd",
                   "carthage",
@@ -471,10 +471,10 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T20:40:57Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "apple",
                 "repo": "swift-collections",
-                "stars": 4500,
+                "stars": 4502,
                 "topics": [
                   "collection",
                   "container",
@@ -502,10 +502,10 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-22T23:09:31Z",
-                "open_issues": 71,
+                "open_issues": 72,
                 "owner": "apple",
                 "repo": "swift-algorithms",
-                "stars": 6341,
+                "stars": 6340,
                 "topics": [
                   "algorithm",
                   "iterator",
@@ -537,7 +537,7 @@
                 "open_issues": 404,
                 "owner": "yonaskolb",
                 "repo": "XcodeGen",
-                "stars": 8785,
+                "stars": 8787,
                 "topics": [
                   "ci",
                   "cli",
@@ -581,7 +581,7 @@
                 "open_issues": 27,
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53381,
+                "stars": 53392,
                 "topics": [
                   "apple-swift",
                   "arkit",
@@ -641,7 +641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:19:13.880Z",
+    "last_updated": "2026-09-19T01:17:05.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
