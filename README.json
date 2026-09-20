@@ -45,8 +45,8 @@
                 "id": 196084046,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T20:51:28Z",
-                "open_issues": 190,
+                "last_commit": "2026-09-19T08:50:44Z",
+                "open_issues": 192,
                 "owner": "swiftlang",
                 "repo": "swift-format",
                 "stars": 2956,
@@ -83,7 +83,7 @@
                 "open_issues": 23,
                 "owner": "pointfreeco",
                 "repo": "swift-composable-architecture",
-                "stars": 14921,
+                "stars": 14923,
                 "topics": [
                   "architecture",
                   "composition",
@@ -111,7 +111,7 @@
                 "open_issues": 14,
                 "owner": "pointfreeco",
                 "repo": "swift-dependencies",
-                "stars": 2190,
+                "stars": 2191,
                 "topics": [
                   "architecture",
                   "dependency-injection",
@@ -174,8 +174,8 @@
                 "id": 196084046,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T20:51:28Z",
-                "open_issues": 190,
+                "last_commit": "2026-09-19T08:50:44Z",
+                "open_issues": 192,
                 "owner": "swiftlang",
                 "repo": "swift-format",
                 "stars": 2956,
@@ -259,7 +259,7 @@
                 "open_issues": 42,
                 "owner": "Alamofire",
                 "repo": "Alamofire",
-                "stars": 42419,
+                "stars": 42417,
                 "topics": [
                   "alamofire",
                   "carthage",
@@ -365,7 +365,7 @@
                 "open_issues": 23,
                 "owner": "pointfreeco",
                 "repo": "swift-composable-architecture",
-                "stars": 14921,
+                "stars": 14923,
                 "topics": [
                   "architecture",
                   "composition",
@@ -393,7 +393,7 @@
                 "open_issues": 14,
                 "owner": "pointfreeco",
                 "repo": "swift-dependencies",
-                "stars": 2190,
+                "stars": 2191,
                 "topics": [
                   "architecture",
                   "dependency-injection",
@@ -419,7 +419,7 @@
                 "open_issues": 220,
                 "owner": "pointfreeco",
                 "repo": "swift-snapshot-testing",
-                "stars": 4337,
+                "stars": 4338,
                 "topics": [
                   "screenshot-testing",
                   "snapshot-testing",
@@ -445,7 +445,7 @@
                 "open_issues": 49,
                 "owner": "Quick",
                 "repo": "Quick",
-                "stars": 9825,
+                "stars": 9827,
                 "topics": [
                   "bdd",
                   "carthage",
@@ -505,7 +505,7 @@
                 "open_issues": 72,
                 "owner": "apple",
                 "repo": "swift-algorithms",
-                "stars": 6340,
+                "stars": 6341,
                 "topics": [
                   "algorithm",
                   "iterator",
@@ -537,7 +537,7 @@
                 "open_issues": 404,
                 "owner": "yonaskolb",
                 "repo": "XcodeGen",
-                "stars": 8787,
+                "stars": 8789,
                 "topics": [
                   "ci",
                   "cli",
@@ -581,7 +581,7 @@
                 "open_issues": 27,
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53392,
+                "stars": 53403,
                 "topics": [
                   "apple-swift",
                   "arkit",
@@ -641,7 +641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:17:05.159Z",
+    "last_updated": "2026-09-20T01:17:49.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
