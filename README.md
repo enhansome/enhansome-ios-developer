@@ -102,7 +102,7 @@ Focus on these concepts before collecting framework recipes:
 Consistency matters more than allegiance to one style guide.
 Automate rules that are objective and leave design judgment to review.
 
-* [SwiftLint](https://github.com/realm/SwiftLint) ⭐ 19,745 | 🐛 515 | 🌐 Swift | 📅 2026-09-26
+* [SwiftLint](https://github.com/realm/SwiftLint) ⭐ 19,750 | 🐛 515 | 🌐 Swift | 📅 2026-09-27
 * [swift-format](https://github.com/swiftlang/swift-format) ⭐ 2,960 | 🐛 194 | 🌐 Swift | 📅 2026-09-26
 * [Swift.org API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/)
 * [Google Swift Style Guide](https://google.github.io/swift/)
@@ -342,7 +342,7 @@ Useful references:
 * [`URLSession`](https://developer.apple.com/documentation/foundation/urlsession)
 * [`Codable`](https://developer.apple.com/documentation/swift/codable)
 * [Network framework](https://developer.apple.com/documentation/network)
-* [Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,420 | 🐛 43 | 🌐 Swift | 📅 2026-09-14 when its feature set justifies the dependency
+* [Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,415 | 🐛 43 | 🌐 Swift | 📅 2026-09-27 when its feature set justifies the dependency
 
 ## 💾 Persistence
 
@@ -460,19 +460,19 @@ These are options to evaluate, not a default shopping list.
 
 | Project                                                                                                                                                                           | Purpose                                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| [SwiftLint](https://github.com/realm/SwiftLint) ⭐ 19,745 \| 🐛 515 \| 🌐 Swift \| 📅 2026-09-26                                                                                   | Enforce selected Swift style and correctness rules   |
+| [SwiftLint](https://github.com/realm/SwiftLint) ⭐ 19,750 \| 🐛 515 \| 🌐 Swift \| 📅 2026-09-27                                                                                   | Enforce selected Swift style and correctness rules   |
 | [swift-format](https://github.com/swiftlang/swift-format) ⭐ 2,960 \| 🐛 194 \| 🌐 Swift \| 📅 2026-09-26                                                                          | Format Swift source                                  |
 | [SwiftGen](https://github.com/SwiftGen/SwiftGen) ⭐ 9,550 \| 🐛 157 \| 🌐 Swift \| 📅 2026-04-16                                                                                   | Generate type-safe resource access                   |
 | [Periphery](https://github.com/peripheryapp/periphery) ⚠️ Archived                                                                                                                | Detect unused Swift code                             |
-| [Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,420 \| 🐛 43 \| 🌐 Swift \| 📅 2026-09-14                                                                                | Networking features and request abstraction          |
-| [Kingfisher](https://github.com/onevcat/Kingfisher) ⭐ 24,406 \| 🐛 169 \| 🌐 Swift \| 📅 2026-09-26                                                                               | Image downloading and caching                        |
-| [SDWebImage](https://github.com/SDWebImage/SDWebImage) ⭐ 25,629 \| 🐛 132 \| 🌐 Objective-C \| 📅 2026-04-15                                                                      | Image loading and caching across Apple UI frameworks |
+| [Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,415 \| 🐛 43 \| 🌐 Swift \| 📅 2026-09-27                                                                                | Networking features and request abstraction          |
+| [Kingfisher](https://github.com/onevcat/Kingfisher) ⭐ 24,404 \| 🐛 169 \| 🌐 Swift \| 📅 2026-09-26                                                                               | Image downloading and caching                        |
+| [SDWebImage](https://github.com/SDWebImage/SDWebImage) ⭐ 25,628 \| 🐛 133 \| 🌐 Objective-C \| 📅 2026-04-15                                                                      | Image loading and caching across Apple UI frameworks |
 | [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,937 \| 🐛 24 \| 🌐 Swift \| 📅 2026-09-18                                        | Reducer-based application architecture               |
 | [swift-dependencies](https://github.com/pointfreeco/swift-dependencies) ⭐ 2,195 \| 🐛 14 \| 🌐 Swift \| 📅 2026-08-28                                                             | Dependency management designed for testability       |
-| [swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) ⭐ 4,346 \| 🐛 220 \| 🌐 Swift \| 📅 2026-09-21                                                    | Snapshot tests for values and UI                     |
-| [Quick](https://github.com/Quick/Quick) ⭐ 9,828 \| 🐛 49 \| 🌐 Swift \| 📅 2026-05-18 and [Nimble](https://github.com/Quick/Nimble) ⭐ 4,840 \| 🐛 30 \| 🌐 Swift \| 📅 2026-05-04 | Behavior-style test organization and matchers        |
-| [Swift Collections](https://github.com/apple/swift-collections) ⭐ 4,506 \| 🐛 70 \| 🌐 Swift \| 📅 2026-09-25                                                                     | Additional data structures                           |
-| [Swift Algorithms](https://github.com/apple/swift-algorithms) ⭐ 6,339 \| 🐛 74 \| 🌐 Swift \| 📅 2026-09-25                                                                       | Sequence and collection algorithms                   |
+| [swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) ⭐ 4,347 \| 🐛 221 \| 🌐 Swift \| 📅 2026-09-21                                                    | Snapshot tests for values and UI                     |
+| [Quick](https://github.com/Quick/Quick) ⭐ 9,826 \| 🐛 49 \| 🌐 Swift \| 📅 2026-05-18 and [Nimble](https://github.com/Quick/Nimble) ⭐ 4,840 \| 🐛 30 \| 🌐 Swift \| 📅 2026-05-04 | Behavior-style test organization and matchers        |
+| [Swift Collections](https://github.com/apple/swift-collections) ⭐ 4,507 \| 🐛 70 \| 🌐 Swift \| 📅 2026-09-25                                                                     | Additional data structures                           |
+| [Swift Algorithms](https://github.com/apple/swift-algorithms) ⭐ 6,340 \| 🐛 74 \| 🌐 Swift \| 📅 2026-09-25                                                                       | Sequence and collection algorithms                   |
 
 ### Modularization
 
@@ -858,8 +858,8 @@ A rewrite is not automatically simpler than the code it replaces.
 
 ### Discovery
 
-* [awesome-ios](https://github.com/vsouza/awesome-ios) ⭐ 53,456 | 🐛 27 | 🌐 Swift | 📅 2026-08-27
-* [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) ⭐ 6,417 | 🐛 11 | 🌐 Swift | 📅 2024-01-25
+* [awesome-ios](https://github.com/vsouza/awesome-ios) ⭐ 53,464 | 🐛 27 | 🌐 Swift | 📅 2026-08-27
+* [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) ⭐ 6,416 | 🐛 11 | 🌐 Swift | 📅 2024-01-25
 * [Swift package ecosystem](https://www.swift.org/packages/)
 * [WWDC Index](https://nonstrict.eu/wwdcindex/)
 
@@ -894,4 +894,4 @@ Created and maintained by **Jungpyo Hong (Dennis)**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
