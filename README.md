@@ -103,7 +103,7 @@ Consistency matters more than allegiance to one style guide.
 Automate rules that are objective and leave design judgment to review.
 
 * [SwiftLint](https://github.com/realm/SwiftLint) ⭐ 19,746 | 🐛 516 | 🌐 Swift | 📅 2026-10-02
-* [swift-format](https://github.com/swiftlang/swift-format) ⭐ 2,959 | 🐛 195 | 🌐 Swift | 📅 2026-09-29
+* [swift-format](https://github.com/swiftlang/swift-format) ⭐ 2,959 | 🐛 195 | 🌐 Swift | 📅 2026-10-03
 * [Swift.org API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/)
 * [Google Swift Style Guide](https://google.github.io/swift/)
 
@@ -251,8 +251,8 @@ Shared stateless services can be reasonable, but shared mutable state needs expl
 
 Architecture references:
 
-* [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,946 | 🐛 24 | 🌐 Swift | 📅 2026-09-18
-* [Swift Dependencies](https://github.com/pointfreeco/swift-dependencies) ⭐ 2,196 | 🐛 14 | 🌐 Swift | 📅 2026-08-28
+* [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,948 | 🐛 24 | 🌐 Swift | 📅 2026-09-18
+* [Swift Dependencies](https://github.com/pointfreeco/swift-dependencies) ⭐ 2,196 | 🐛 14 | 🌐 Swift | 📅 2026-10-03
 * [Refactoring.Guru Swift patterns](https://refactoring.guru/design-patterns/swift)
 * [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
@@ -461,14 +461,14 @@ These are options to evaluate, not a default shopping list.
 | Project                                                                                                                                                                           | Purpose                                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | [SwiftLint](https://github.com/realm/SwiftLint) ⭐ 19,746 \| 🐛 516 \| 🌐 Swift \| 📅 2026-10-02                                                                                   | Enforce selected Swift style and correctness rules   |
-| [swift-format](https://github.com/swiftlang/swift-format) ⭐ 2,959 \| 🐛 195 \| 🌐 Swift \| 📅 2026-09-29                                                                          | Format Swift source                                  |
+| [swift-format](https://github.com/swiftlang/swift-format) ⭐ 2,959 \| 🐛 195 \| 🌐 Swift \| 📅 2026-10-03                                                                          | Format Swift source                                  |
 | [SwiftGen](https://github.com/SwiftGen/SwiftGen) ⭐ 9,547 \| 🐛 157 \| 🌐 Swift \| 📅 2026-04-16                                                                                   | Generate type-safe resource access                   |
 | [Periphery](https://github.com/peripheryapp/periphery) ⚠️ Archived                                                                                                                | Detect unused Swift code                             |
 | [Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,406 \| 🐛 44 \| 🌐 Swift \| 📅 2026-10-01                                                                                | Networking features and request abstraction          |
 | [Kingfisher](https://github.com/onevcat/Kingfisher) ⭐ 24,404 \| 🐛 169 \| 🌐 Swift \| 📅 2026-09-26                                                                               | Image downloading and caching                        |
 | [SDWebImage](https://github.com/SDWebImage/SDWebImage) ⭐ 25,614 \| 🐛 133 \| 🌐 Objective-C \| 📅 2026-04-15                                                                      | Image loading and caching across Apple UI frameworks |
-| [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,946 \| 🐛 24 \| 🌐 Swift \| 📅 2026-09-18                                        | Reducer-based application architecture               |
-| [swift-dependencies](https://github.com/pointfreeco/swift-dependencies) ⭐ 2,196 \| 🐛 14 \| 🌐 Swift \| 📅 2026-08-28                                                             | Dependency management designed for testability       |
+| [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,948 \| 🐛 24 \| 🌐 Swift \| 📅 2026-09-18                                        | Reducer-based application architecture               |
+| [swift-dependencies](https://github.com/pointfreeco/swift-dependencies) ⭐ 2,196 \| 🐛 14 \| 🌐 Swift \| 📅 2026-10-03                                                             | Dependency management designed for testability       |
 | [swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) ⭐ 4,356 \| 🐛 223 \| 🌐 Swift \| 📅 2026-09-21                                                    | Snapshot tests for values and UI                     |
 | [Quick](https://github.com/Quick/Quick) ⭐ 9,823 \| 🐛 49 \| 🌐 Swift \| 📅 2026-05-18 and [Nimble](https://github.com/Quick/Nimble) ⭐ 4,836 \| 🐛 30 \| 🌐 Swift \| 📅 2026-05-04 | Behavior-style test organization and matchers        |
 | [Swift Collections](https://github.com/apple/swift-collections) ⭐ 4,513 \| 🐛 75 \| 🌐 Swift \| 📅 2026-10-01                                                                     | Additional data structures                           |
@@ -493,7 +493,7 @@ An excessive module graph can increase configuration, dependency, and linking co
 
 Useful tools:
 
-* [XcodeGen](https://github.com/yonaskolb/XcodeGen) ⭐ 8,817 | 🐛 406 | 🌐 Swift | 📅 2026-09-13 for generating Xcode projects from specifications.
+* [XcodeGen](https://github.com/yonaskolb/XcodeGen) ⭐ 8,818 | 🐛 406 | 🌐 Swift | 📅 2026-09-13 for generating Xcode projects from specifications.
 * [Tuist](https://tuist.dev/) for generated projects, workspaces, caching, and project automation.
 * [XCFrameworks](https://developer.apple.com/documentation/xcode/creating-a-multi-platform-binary-framework-bundle) for distributing multi-platform binary frameworks.
 * [DocC](https://www.swift.org/documentation/docc/) for API and conceptual documentation.
@@ -858,7 +858,7 @@ A rewrite is not automatically simpler than the code it replaces.
 
 ### Discovery
 
-* [awesome-ios](https://github.com/vsouza/awesome-ios) ⭐ 53,497 | 🐛 27 | 🌐 Swift | 📅 2026-08-27
+* [awesome-ios](https://github.com/vsouza/awesome-ios) ⭐ 53,502 | 🐛 27 | 🌐 Swift | 📅 2026-08-27
 * [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) ⭐ 6,418 | 🐛 11 | 🌐 Swift | 📅 2024-01-25
 * [Swift package ecosystem](https://www.swift.org/packages/)
 * [WWDC Index](https://nonstrict.eu/wwdcindex/)

@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "SwiftLint",
-              "description": null,
+              "description": "realm/SwiftLint",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "swift-format",
-              "description": null,
+              "description": "swiftlang/swift-format",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -45,7 +45,7 @@
                 "id": 196084046,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T15:38:13Z",
+                "last_commit": "2026-10-03T02:37:45Z",
                 "open_issues": 195,
                 "owner": "swiftlang",
                 "repo": "swift-format",
@@ -70,7 +70,7 @@
             {
               "node_type": "item",
               "title": "The Composable Architecture",
-              "description": null,
+              "description": "pointfreeco/swift-composable-architecture",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -83,7 +83,7 @@
                 "open_issues": 24,
                 "owner": "pointfreeco",
                 "repo": "swift-composable-architecture",
-                "stars": 14946,
+                "stars": 14948,
                 "topics": [
                   "architecture",
                   "composition",
@@ -98,7 +98,7 @@
             {
               "node_type": "item",
               "title": "Swift Dependencies",
-              "description": null,
+              "description": "pointfreeco/swift-dependencies",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -107,7 +107,7 @@
                 "id": 543149227,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-08-28T20:25:16Z",
+                "last_commit": "2026-10-03T04:00:29Z",
                 "open_issues": 14,
                 "owner": "pointfreeco",
                 "repo": "swift-dependencies",
@@ -174,7 +174,7 @@
                 "id": 196084046,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T15:38:13Z",
+                "last_commit": "2026-10-03T02:37:45Z",
                 "open_issues": 195,
                 "owner": "swiftlang",
                 "repo": "swift-format",
@@ -365,7 +365,7 @@
                 "open_issues": 24,
                 "owner": "pointfreeco",
                 "repo": "swift-composable-architecture",
-                "stars": 14946,
+                "stars": 14948,
                 "topics": [
                   "architecture",
                   "composition",
@@ -389,7 +389,7 @@
                 "id": 543149227,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-08-28T20:25:16Z",
+                "last_commit": "2026-10-03T04:00:29Z",
                 "open_issues": 14,
                 "owner": "pointfreeco",
                 "repo": "swift-dependencies",
@@ -537,7 +537,7 @@
                 "open_issues": 406,
                 "owner": "yonaskolb",
                 "repo": "XcodeGen",
-                "stars": 8817,
+                "stars": 8818,
                 "topics": [
                   "ci",
                   "cli",
@@ -568,7 +568,7 @@
             {
               "node_type": "item",
               "title": "awesome-ios",
-              "description": null,
+              "description": "vsouza/awesome-ios",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -581,7 +581,7 @@
                 "open_issues": 27,
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53497,
+                "stars": 53502,
                 "topics": [
                   "apple-swift",
                   "arkit",
@@ -603,7 +603,7 @@
             {
               "node_type": "item",
               "title": "iOS Developer Roadmap",
-              "description": null,
+              "description": "BohdanOrlov/iOS-Developer-Roadmap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -641,7 +641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:05:47.888Z",
+    "last_updated": "2026-10-03T04:50:33.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
@@ -653,7 +653,7 @@
       "open_issues": 7,
       "owner": "jphong1111",
       "repo": "awesome-ios-developer",
-      "stars": 846,
+      "stars": 847,
       "topics": [
         "apple",
         "awesome",
