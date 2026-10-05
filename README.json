@@ -1,647 +1,723 @@
 {
   "items": [
     {
-      "description": null,
+      "description": "set of guidelines for a specific programming language that recommend programming style",
       "items": [
         {
           "children": [
             {
               "node_type": "item",
-              "title": "SwiftLint",
-              "description": "realm/SwiftLint",
+              "title": "Swift Style Guide",
+              "description": "linkedin/swift-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A tool to enforce Swift style and conventions.",
-                "homepage": "https://realm.github.io/SwiftLint",
-                "id": 35732214,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2026-10-02T14:53:31Z",
-                "open_issues": 518,
-                "owner": "realm",
-                "repo": "SwiftLint",
-                "stars": 19748,
+                "description": "LinkedIn's Official Swift Style Guide",
+                "homepage": null,
+                "id": 61673934,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2025-01-15T19:12:12Z",
+                "open_issues": 5,
+                "owner": "linkedin",
+                "repo": "swift-style-guide",
+                "stars": 1452,
                 "topics": [
-                  "code-quality",
-                  "hacktoberfest",
-                  "linter",
-                  "linting",
-                  "static-analysis",
+                  "ios",
+                  "style-guide",
                   "swift"
                 ]
               },
-              "first_seen": "2026-08-28T06:57:38.890Z"
-            },
-            {
-              "node_type": "item",
-              "title": "swift-format",
-              "description": "swiftlang/swift-format",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Formatting technology for Swift source code",
-                "homepage": null,
-                "id": 196084046,
-                "language": "Swift",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-03T02:37:45Z",
-                "open_issues": 195,
-                "owner": "swiftlang",
-                "repo": "swift-format",
-                "stars": 2959,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:57:38.890Z"
+              "first_seen": "2026-10-05T02:06:15.461Z"
             }
           ],
-          "description": "Consistency matters more than allegiance to one style guide. Automate rules that are objective and leave design judgment to review.\nDo not make a build depend on a developer’s globally installed formatter or linter without documenting and pinning the expected version. Swift Package plugins, a repository tool installer, or CI-managed tooling make clean checkouts more reproducible.",
+          "description": null,
           "node_type": "group",
-          "title": "Style and static analysis"
-        }
-      ],
-      "title": "🧑‍💻 Swift and Xcode"
-    },
-    {
-      "description": "Architecture should make change safer. It should not exist to maximize the number of folders, protocols, or diagrams.",
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "The Composable Architecture",
-              "description": "pointfreeco/swift-composable-architecture",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
-                "homepage": "https://www.pointfree.co/collections/composable-architecture",
-                "id": 261039251,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2026-09-18T18:51:18Z",
-                "open_issues": 24,
-                "owner": "pointfreeco",
-                "repo": "swift-composable-architecture",
-                "stars": 14948,
-                "topics": [
-                  "architecture",
-                  "composition",
-                  "modularity",
-                  "swiftui",
-                  "testability",
-                  "uikit"
-                ]
-              },
-              "first_seen": "2026-08-28T06:57:38.890Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Swift Dependencies",
-              "description": "pointfreeco/swift-dependencies",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A dependency management library inspired by SwiftUI's \"environment.\"",
-                "homepage": "https://www.pointfree.co",
-                "id": 543149227,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2026-10-03T04:00:29Z",
-                "open_issues": 14,
-                "owner": "pointfreeco",
-                "repo": "swift-dependencies",
-                "stars": 2196,
-                "topics": [
-                  "architecture",
-                  "dependency-injection",
-                  "dependency-management",
-                  "swift"
-                ]
-              },
-              "first_seen": "2026-08-28T06:57:38.890Z"
-            }
-          ],
-          "description": "Architecture references:\nNo architecture is automatically “clean.” Judge it by dependency direction, testability, clarity, build performance, and how safely the team can change behavior.",
-          "node_type": "group",
-          "title": "Common patterns"
-        }
-      ],
-      "title": "🧭 State, Architecture, and Navigation"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "SwiftLint",
-              "description": "Enforce selected Swift style and correctness rules",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A tool to enforce Swift style and conventions.",
-                "homepage": "https://realm.github.io/SwiftLint",
-                "id": 35732214,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2026-10-02T14:53:31Z",
-                "open_issues": 518,
-                "owner": "realm",
-                "repo": "SwiftLint",
-                "stars": 19748,
-                "topics": [
-                  "code-quality",
-                  "hacktoberfest",
-                  "linter",
-                  "linting",
-                  "static-analysis",
-                  "swift"
-                ]
-              },
-              "first_seen": "2026-08-28T06:57:38.890Z"
-            },
-            {
-              "node_type": "item",
-              "title": "swift-format",
-              "description": "Format Swift source",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Formatting technology for Swift source code",
-                "homepage": null,
-                "id": 196084046,
-                "language": "Swift",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-03T02:37:45Z",
-                "open_issues": 195,
-                "owner": "swiftlang",
-                "repo": "swift-format",
-                "stars": 2959,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:57:38.890Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SwiftGen",
-              "description": "Generate type-safe resource access",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!",
-                "homepage": null,
-                "id": 39166950,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2026-04-16T08:20:58Z",
-                "open_issues": 157,
-                "owner": "SwiftGen",
-                "repo": "SwiftGen",
-                "stars": 9548,
-                "topics": [
-                  "code-generator",
-                  "ios",
-                  "localization",
-                  "stencil",
-                  "stencil-template",
-                  "swift",
-                  "templates",
-                  "uicolor",
-                  "uifont",
-                  "uiimage",
-                  "uistoryboard"
-                ]
-              },
-              "first_seen": "2026-08-28T06:57:38.890Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Periphery",
-              "description": "Detect unused Swift code",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "A tool to identify unused code in Swift projects.",
-                "homepage": null,
-                "id": 169972846,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2026-08-12T09:22:11Z",
-                "open_issues": 0,
-                "owner": "peripheryapp",
-                "repo": "periphery",
-                "stars": 6183,
-                "topics": [
-                  "apple",
-                  "ios",
-                  "macos",
-                  "swift",
-                  "xcode"
-                ]
-              },
-              "first_seen": "2026-08-28T06:57:38.890Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Alamofire",
-              "description": "Networking features and request abstraction",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Elegant HTTP Networking in Swift",
-                "homepage": null,
-                "id": 22458259,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2026-10-01T01:40:57Z",
-                "open_issues": 43,
-                "owner": "Alamofire",
-                "repo": "Alamofire",
-                "stars": 42406,
-                "topics": [
-                  "alamofire",
-                  "carthage",
-                  "certificate-pinning",
-                  "cocoapods",
-                  "httpurlresponse",
-                  "networking",
-                  "parameter-encoding",
-                  "public-key-pinning",
-                  "request",
-                  "response",
-                  "swift",
-                  "swift-package-manager",
-                  "urlrequest",
-                  "urlsession",
-                  "xcode"
-                ]
-              },
-              "first_seen": "2026-08-28T06:57:38.890Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Kingfisher",
-              "description": "Image downloading and caching",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
-                "homepage": null,
-                "id": 33486016,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2026-10-03T15:18:49Z",
-                "open_issues": 167,
-                "owner": "onevcat",
-                "repo": "Kingfisher",
-                "stars": 24404,
-                "topics": [
-                  "cache",
-                  "filters",
-                  "image",
-                  "image-processor",
-                  "ios",
-                  "kingfisher",
-                  "macos",
-                  "swift",
-                  "xcode"
-                ]
-              },
-              "first_seen": "2026-08-28T06:57:38.890Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SDWebImage",
-              "description": "Image loading and caching across Apple UI frameworks",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Asynchronous image downloader with cache support as a UIImageView category",
-                "homepage": "https://sdwebimage.github.io",
-                "id": 313419,
-                "language": "Objective-C",
-                "license": "MIT",
-                "last_commit": "2026-04-15T03:36:16Z",
-                "open_issues": 133,
-                "owner": "SDWebImage",
-                "repo": "SDWebImage",
-                "stars": 25613,
-                "topics": [
-                  "cache",
-                  "carthage",
-                  "cocoapods",
-                  "gif",
-                  "heif",
-                  "image",
-                  "ios",
-                  "jpeg",
-                  "macos",
-                  "objective-c",
-                  "png",
-                  "sdwebimage",
-                  "swift",
-                  "visionos",
-                  "watchos",
-                  "webp"
-                ]
-              },
-              "first_seen": "2026-08-28T06:57:38.890Z"
-            },
-            {
-              "node_type": "item",
-              "title": "The Composable Architecture",
-              "description": "Reducer-based application architecture",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
-                "homepage": "https://www.pointfree.co/collections/composable-architecture",
-                "id": 261039251,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2026-09-18T18:51:18Z",
-                "open_issues": 24,
-                "owner": "pointfreeco",
-                "repo": "swift-composable-architecture",
-                "stars": 14948,
-                "topics": [
-                  "architecture",
-                  "composition",
-                  "modularity",
-                  "swiftui",
-                  "testability",
-                  "uikit"
-                ]
-              },
-              "first_seen": "2026-08-28T06:57:38.890Z"
-            },
-            {
-              "node_type": "item",
-              "title": "swift-dependencies",
-              "description": "Dependency management designed for testability",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A dependency management library inspired by SwiftUI's \"environment.\"",
-                "homepage": "https://www.pointfree.co",
-                "id": 543149227,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2026-10-03T04:00:29Z",
-                "open_issues": 14,
-                "owner": "pointfreeco",
-                "repo": "swift-dependencies",
-                "stars": 2196,
-                "topics": [
-                  "architecture",
-                  "dependency-injection",
-                  "dependency-management",
-                  "swift"
-                ]
-              },
-              "first_seen": "2026-08-28T06:57:38.890Z"
-            },
-            {
-              "node_type": "item",
-              "title": "swift-snapshot-testing",
-              "description": "Snapshot tests for values and UI",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "📸 Delightful Swift snapshot testing.",
-                "homepage": "https://www.pointfree.co/episodes/ep41-a-tour-of-snapshot-testing",
-                "id": 96496250,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2026-09-21T21:19:59Z",
-                "open_issues": 223,
-                "owner": "pointfreeco",
-                "repo": "swift-snapshot-testing",
-                "stars": 4359,
-                "topics": [
-                  "screenshot-testing",
-                  "snapshot-testing",
-                  "swift",
-                  "testing"
-                ]
-              },
-              "first_seen": "2026-08-28T06:57:38.890Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Quick",
-              "description": "and Nimble Behavior-style test organization and matchers",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Swift (and Objective-C) testing framework.",
-                "homepage": "http://quick.github.io/Quick/",
-                "id": 20506004,
-                "language": "Swift",
-                "license": "Apache-2.0",
-                "last_commit": "2026-05-18T15:19:28Z",
-                "open_issues": 49,
-                "owner": "Quick",
-                "repo": "Quick",
-                "stars": 9823,
-                "topics": [
-                  "bdd",
-                  "carthage",
-                  "cocoapods",
-                  "ios",
-                  "objective-c",
-                  "swift",
-                  "testing"
-                ]
-              },
-              "first_seen": "2026-08-28T06:57:38.890Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Swift Collections",
-              "description": "Additional data structures",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Commonly used data structures for Swift",
-                "homepage": null,
-                "id": 339202510,
-                "language": "Swift",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-01T21:18:11Z",
-                "open_issues": 75,
-                "owner": "apple",
-                "repo": "swift-collections",
-                "stars": 4514,
-                "topics": [
-                  "collection",
-                  "container",
-                  "deque",
-                  "dequeue",
-                  "hash",
-                  "ordered-dictionary",
-                  "ordered-set",
-                  "queue",
-                  "sequence"
-                ]
-              },
-              "first_seen": "2026-08-28T06:57:38.890Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Swift Algorithms",
-              "description": "Sequence and collection algorithms",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Commonly used sequence and collection algorithms for Swift",
-                "homepage": null,
-                "id": 300135838,
-                "language": "Swift",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-25T17:40:43Z",
-                "open_issues": 74,
-                "owner": "apple",
-                "repo": "swift-algorithms",
-                "stars": 6339,
-                "topics": [
-                  "algorithm",
-                  "iterator",
-                  "itertools"
-                ]
-              },
-              "first_seen": "2026-08-28T06:57:38.890Z"
-            }
-          ],
-          "description": "These are options to evaluate, not a default shopping list.",
-          "node_type": "group",
-          "title": "Useful packages and tools"
+          "title": "Swift Style Guide"
         },
         {
           "children": [
             {
               "node_type": "item",
-              "title": "XcodeGen",
-              "description": "for generating Xcode projects from specifications.",
+              "title": "Swift Lint",
+              "description": "apply for all project:+1:",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A Swift command line tool for generating your Xcode project",
-                "homepage": null,
-                "id": 97716052,
+                "description": "A tool to enforce Swift style and conventions.",
+                "homepage": "https://realm.github.io/SwiftLint",
+                "id": 35732214,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-13T14:29:06Z",
-                "open_issues": 406,
-                "owner": "yonaskolb",
-                "repo": "XcodeGen",
-                "stars": 8819,
+                "last_commit": "2026-10-02T14:53:31Z",
+                "open_issues": 518,
+                "owner": "realm",
+                "repo": "SwiftLint",
+                "stars": 19748,
                 "topics": [
-                  "ci",
-                  "cli",
-                  "generator",
-                  "specification",
-                  "swift",
-                  "xcode",
-                  "xcodeproj",
-                  "xcodeproject",
-                  "yaml"
+                  "code-quality",
+                  "hacktoberfest",
+                  "linter",
+                  "linting",
+                  "static-analysis",
+                  "swift"
                 ]
               },
               "first_seen": "2026-08-28T06:57:38.890Z"
             }
           ],
-          "description": "Modules should express ownership and dependency boundaries. They are not automatically an improvement.\nModularize when it provides one or more of these benefits:\nTrack build time before and after modularization. An excessive module graph can increase configuration, dependency, and linking costs.\nUseful tools:",
+          "description": "The way of force you to adapt coding convention\notherwise project build will FAILED\nput .yml file into root folder and apply following code in Build Phases\nYou can modify(delete) SwiftLint Option with opening .yml file\nShift + Command + . will show the hidden file\n📚📚 Recommend Book 📚📚",
           "node_type": "group",
-          "title": "Modularization"
+          "title": "Swift Lint"
         }
       ],
-      "title": "📦 Dependencies and Modularization"
+      "title": "Coding convention"
     },
     {
-      "description": null,
+      "description": "The Composable Architecture is a library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Composable Architecture GitHub",
+          "description": "pointfreeco/swift-composable-architecture",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+            "homepage": "https://www.pointfree.co/collections/composable-architecture",
+            "id": 261039251,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-09-18T18:51:18Z",
+            "open_issues": 24,
+            "owner": "pointfreeco",
+            "repo": "swift-composable-architecture",
+            "stars": 14950,
+            "topics": [
+              "architecture",
+              "composition",
+              "modularity",
+              "swiftui",
+              "testability",
+              "uikit"
+            ]
+          },
+          "first_seen": "2026-08-28T06:57:38.890Z"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SimpleBoilerplates/SwiftUI-Cheat-Sheet",
+              "description": "SimpleBoilerplates/SwiftUI-Cheat-Sheet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SwiftUI 2.0 Cheat Sheet",
+                "homepage": null,
+                "id": 190864373,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2022-09-04T12:41:56Z",
+                "open_issues": 3,
+                "owner": "SimpleBoilerplates",
+                "repo": "SwiftUI-Cheat-Sheet",
+                "stars": 4463,
+                "topics": [
+                  "declarative-ui",
+                  "swift",
+                  "swiftui",
+                  "uikit",
+                  "uikit-equivalent"
+                ]
+              },
+              "first_seen": "2026-10-05T02:06:15.461Z"
+            }
+          ],
+          "description": "TBA",
+          "node_type": "group",
+          "title": "Useful Cheat Sheet for SwiftUI"
+        }
+      ],
+      "title": "The Composable Architecture"
+    },
+    {
+      "description": "You can use Bundle+Extension.swift file to configure your bundle to your application.\nSource code from : PhoneNumberKit",
       "items": [
         {
           "children": [
             {
               "node_type": "item",
-              "title": "awesome-ios",
-              "description": "vsouza/awesome-ios",
+              "title": "Email, Message, Call",
+              "description": "jphong1111/awesome-ios-developer",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects ",
-                "homepage": "http://awesomeios.dev",
-                "id": 21700699,
+                "description": "List of awesome iOS & Swift stuff!!",
+                "homepage": null,
+                "id": 356388461,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-08-27T19:34:29Z",
-                "open_issues": 27,
-                "owner": "vsouza",
-                "repo": "awesome-ios",
-                "stars": 53512,
+                "last_commit": "2026-10-04T08:35:58Z",
+                "open_issues": 6,
+                "owner": "jphong1111",
+                "repo": "awesome-ios-developer",
+                "stars": 847,
                 "topics": [
-                  "apple-swift",
-                  "arkit",
+                  "apple",
                   "awesome",
+                  "awesome-list",
+                  "awesome-readme",
                   "ios",
-                  "ios-animation",
-                  "ios-libraries",
-                  "objective-c",
-                  "objective-c-library",
-                  "swift-extensions",
-                  "swift-framework",
-                  "swift-language",
-                  "swift-library",
-                  "swift-programming"
+                  "ios-app",
+                  "ios-swift",
+                  "swift",
+                  "swift5",
+                  "useful-knowledge",
+                  "usefull",
+                  "usefull-materials"
                 ]
               },
-              "first_seen": "2026-08-28T06:57:38.890Z"
-            },
+              "first_seen": "2026-10-05T02:06:15.461Z"
+            }
+          ],
+          "description": "You can check the file in the follow link",
+          "node_type": "group",
+          "title": "Email, Message, Call"
+        },
+        {
+          "children": [
             {
               "node_type": "item",
-              "title": "iOS Developer Roadmap",
-              "description": "BohdanOrlov/iOS-Developer-Roadmap",
+              "title": "Network Layer",
+              "description": "jphong1111/awesome-ios-developer",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Roadmap to becoming an iOS developer in 2018.",
+                "description": "List of awesome iOS & Swift stuff!!",
                 "homepage": null,
-                "id": 121970354,
+                "id": 356388461,
                 "language": "Swift",
-                "license": null,
-                "last_commit": "2024-01-25T09:57:30Z",
-                "open_issues": 11,
-                "owner": "BohdanOrlov",
-                "repo": "iOS-Developer-Roadmap",
-                "stars": 6418,
+                "license": "MIT",
+                "last_commit": "2026-10-04T08:35:58Z",
+                "open_issues": 6,
+                "owner": "jphong1111",
+                "repo": "awesome-ios-developer",
+                "stars": 847,
                 "topics": [
-                  "architecture",
-                  "interview",
+                  "apple",
+                  "awesome",
+                  "awesome-list",
+                  "awesome-readme",
                   "ios",
-                  "materials",
-                  "objective-c",
-                  "problem-solving",
-                  "roadmap",
+                  "ios-app",
+                  "ios-swift",
                   "swift",
-                  "system-design"
+                  "swift5",
+                  "useful-knowledge",
+                  "usefull",
+                  "usefull-materials"
                 ]
               },
-              "first_seen": "2026-08-28T06:57:38.890Z"
+              "first_seen": "2026-10-05T02:06:15.461Z"
             }
           ],
-          "description": "Prefer a recent official source when framework behavior, platform policy, security, privacy, or App Store requirements matter. Community material is most valuable for explanation, tradeoffs, and experience reports.",
+          "description": null,
           "node_type": "group",
-          "title": "Discovery"
+          "title": "Network Layer"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Image Picker",
+              "description": "jphong1111/awesome-ios-developer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "List of awesome iOS & Swift stuff!!",
+                "homepage": null,
+                "id": 356388461,
+                "language": "Swift",
+                "license": "MIT",
+                "last_commit": "2026-10-04T08:35:58Z",
+                "open_issues": 6,
+                "owner": "jphong1111",
+                "repo": "awesome-ios-developer",
+                "stars": 847,
+                "topics": [
+                  "apple",
+                  "awesome",
+                  "awesome-list",
+                  "awesome-readme",
+                  "ios",
+                  "ios-app",
+                  "ios-swift",
+                  "swift",
+                  "swift5",
+                  "useful-knowledge",
+                  "usefull",
+                  "usefull-materials"
+                ]
+              },
+              "first_seen": "2026-10-05T02:06:15.461Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image Picker"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Location Manager",
+              "description": "jphong1111/awesome-ios-developer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "List of awesome iOS & Swift stuff!!",
+                "homepage": null,
+                "id": 356388461,
+                "language": "Swift",
+                "license": "MIT",
+                "last_commit": "2026-10-04T08:35:58Z",
+                "open_issues": 6,
+                "owner": "jphong1111",
+                "repo": "awesome-ios-developer",
+                "stars": 847,
+                "topics": [
+                  "apple",
+                  "awesome",
+                  "awesome-list",
+                  "awesome-readme",
+                  "ios",
+                  "ios-app",
+                  "ios-swift",
+                  "swift",
+                  "swift5",
+                  "useful-knowledge",
+                  "usefull",
+                  "usefull-materials"
+                ]
+              },
+              "first_seen": "2026-10-05T02:06:15.461Z"
+            }
+          ],
+          "description": "Currently Working",
+          "node_type": "group",
+          "title": "Location Manager"
         }
       ],
-      "title": "📚 Learning Resources"
+      "title": "Bundle"
+    },
+    {
+      "description": "Third Party Library saves you time as you do not need to develop the functionality that the library provides. SHOULD DEVELOPERS USE THIRD-PARTY LIBRARIES?\nRelying on library(abused) is not a good idea",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome ios github",
+          "description": "Contains all the popular libraries in Swift:+1:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects ",
+            "homepage": "http://awesomeios.dev",
+            "id": 21700699,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-08-27T19:34:29Z",
+            "open_issues": 27,
+            "owner": "vsouza",
+            "repo": "awesome-ios",
+            "stars": 53519,
+            "topics": [
+              "apple-swift",
+              "arkit",
+              "awesome",
+              "ios",
+              "ios-animation",
+              "ios-libraries",
+              "objective-c",
+              "objective-c-library",
+              "swift-extensions",
+              "swift-framework",
+              "swift-language",
+              "swift-library",
+              "swift-programming"
+            ]
+          },
+          "first_seen": "2026-08-28T06:57:38.890Z"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Carthage",
+              "description": "Carthage/Carthage",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A simple, decentralized dependency manager for Cocoa",
+                "homepage": null,
+                "id": 25050844,
+                "language": "Swift",
+                "license": "NOASSERTION",
+                "last_commit": "2025-09-10T15:36:04Z",
+                "open_issues": 217,
+                "owner": "Carthage",
+                "repo": "Carthage",
+                "stars": 15150,
+                "topics": [
+                  "carthage",
+                  "cocoa",
+                  "package-manager",
+                  "swift"
+                ]
+              },
+              "first_seen": "2026-10-05T02:06:15.461Z"
+            }
+          ],
+          "description": "First, install Carthage through HomeBrew\nif already installed, check if there is latest version.\nThen, go to your root project folder, and do this\nopen cartfile, put library that you want to use\nExample\nAnd then, do this\nAfter finish downloading it, go to Xcode -> Build phases\nTBD\nYou are GOOD TO GO 👏👏👏",
+          "node_type": "group",
+          "title": "Carthage"
+        }
+      ],
+      "title": "Third Party Library"
+    },
+    {
+      "description": "CI and CD stand for continuous integration and continuous delivery/continuous deployment",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Danger",
+              "description": "danger/danger",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🚫 Stop saying \"you forgot to …\" in code review (in Ruby)",
+                "homepage": "https://danger.systems",
+                "id": 43347873,
+                "language": "Ruby",
+                "license": "MIT",
+                "last_commit": "2026-07-29T03:30:00Z",
+                "open_issues": 168,
+                "owner": "danger",
+                "repo": "danger",
+                "stars": 5692,
+                "topics": [
+                  "automation",
+                  "bitbucket",
+                  "ci",
+                  "circle",
+                  "code-review",
+                  "danger",
+                  "github",
+                  "gitlab",
+                  "travis"
+                ]
+              },
+              "first_seen": "2026-10-05T02:06:15.461Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Danger"
+        }
+      ],
+      "title": "CI/CD"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tuist Github",
+          "description": "tuist/tuist",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Your platform team, as a service",
+            "homepage": "https://tuist.dev",
+            "id": 129699403,
+            "language": "Elixir",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-05T01:57:24Z",
+            "open_issues": 464,
+            "owner": "tuist",
+            "repo": "tuist",
+            "stars": 5819,
+            "topics": [
+              "gradle",
+              "ios",
+              "objective-c",
+              "productivity",
+              "scalability",
+              "swift",
+              "xcode"
+            ]
+          },
+          "first_seen": "2026-10-05T02:06:15.461Z"
+        }
+      ],
+      "title": "Tuist"
+    },
+    {
+      "description": "Requirement\nSimulator can not test IAP!!",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RxSwift",
+              "description": "Github Repository",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Reactive Programming in Swift",
+                "homepage": null,
+                "id": 33569135,
+                "language": "Swift",
+                "license": "MIT",
+                "last_commit": "2026-09-04T18:37:03Z",
+                "open_issues": 17,
+                "owner": "ReactiveX",
+                "repo": "RxSwift",
+                "stars": 24633,
+                "topics": [
+                  "functional",
+                  "ios",
+                  "observer",
+                  "reactive",
+                  "reactivex",
+                  "rxswift",
+                  "swift",
+                  "unidirectional"
+                ]
+              },
+              "first_seen": "2026-10-05T02:06:15.461Z"
+            }
+          ],
+          "description": "📚📚 Recommend Book 📚📚",
+          "node_type": "group",
+          "title": "Rxswift"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RxCombine",
+              "description": "CombineCommunity/RxCombine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Bi-directional type bridging between RxSwift and Apple's Combine framework",
+                "homepage": null,
+                "id": 191436499,
+                "language": "Swift",
+                "license": "MIT",
+                "last_commit": "2024-04-21T15:21:37Z",
+                "open_issues": 7,
+                "owner": "CombineCommunity",
+                "repo": "RxCombine",
+                "stars": 1044,
+                "topics": [
+                  "applecombine",
+                  "combine",
+                  "frp",
+                  "ios",
+                  "linux",
+                  "macos",
+                  "reactive",
+                  "reactive-programming",
+                  "reactive-streams",
+                  "rxswift",
+                  "swift",
+                  "watchos"
+                ]
+              },
+              "first_seen": "2026-10-05T02:06:15.461Z"
+            }
+          ],
+          "description": "RxCombine provides bi-directional type bridging between RxSwift and Apple's Combine framework.",
+          "node_type": "group",
+          "title": "RxCombine"
+        }
+      ],
+      "title": "In App Purchase(IAP)"
+    },
+    {
+      "description": "Security secure the data your app manages, and control access to your app.\nCheck below for more detail about iOS Security as well as Application security",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TrustKit",
+                  "description": "datatheorem/TrustKit",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.",
+                    "homepage": null,
+                    "id": 30566161,
+                    "language": "Objective-C",
+                    "license": "MIT",
+                    "last_commit": "2026-08-12T22:04:54Z",
+                    "open_issues": 35,
+                    "owner": "datatheorem",
+                    "repo": "TrustKit",
+                    "stars": 2144,
+                    "topics": [
+                      "ios",
+                      "macos",
+                      "objective-c",
+                      "ssl",
+                      "ssl-pinning",
+                      "ssl-reporting",
+                      "tvos"
+                    ]
+                  },
+                  "first_seen": "2026-10-05T02:06:15.461Z"
+                }
+              ],
+              "description": "TrustKit makes it easy to deploy SSL public key pinning",
+              "node_type": "group",
+              "title": "Relative Stuff"
+            }
+          ],
+          "description": "If you are using above version, this code should be changed\nMore Info\nFirst, Download SSL certificate to your project folder\nhttps://www.yourdomain.com (NOT IN THIS WAY)\nMake a SessionManager to get SSL Pinning\nrequest from sessionManager, if it is invalid, print error",
+          "node_type": "group",
+          "title": "Using Alamofire 5"
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "Find your common error here",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Error Search",
+          "description": "jphong1111/awesome-ios-developer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "List of awesome iOS & Swift stuff!!",
+            "homepage": null,
+            "id": 356388461,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-10-04T08:35:58Z",
+            "open_issues": 6,
+            "owner": "jphong1111",
+            "repo": "awesome-ios-developer",
+            "stars": 847,
+            "topics": [
+              "apple",
+              "awesome",
+              "awesome-list",
+              "awesome-readme",
+              "ios",
+              "ios-app",
+              "ios-swift",
+              "swift",
+              "swift5",
+              "useful-knowledge",
+              "usefull",
+              "usefull-materials"
+            ]
+          },
+          "first_seen": "2026-10-05T02:06:15.461Z"
+        }
+      ],
+      "title": "Error Search"
+    },
+    {
+      "description": "I listed some of the useful & interesting stuff related with Swift",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Inject (3rd Party Library)",
+              "description": "krzysztofzablocki/Inject",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Hot Reloading for Swift applications! ",
+                "homepage": null,
+                "id": 427465920,
+                "language": "Swift",
+                "license": "MIT",
+                "last_commit": "2026-04-29T11:15:40Z",
+                "open_issues": 0,
+                "owner": "krzysztofzablocki",
+                "repo": "Inject",
+                "stars": 3485,
+                "topics": [
+                  "hot-reload",
+                  "ios",
+                  "swift",
+                  "swiftui"
+                ]
+              },
+              "first_seen": "2026-10-05T02:06:15.461Z"
+            }
+          ],
+          "description": "Now Apple officially support Previewpreviews-in-xcode\nCopy this code and Paste into your controller\nEnable canvas option like this\nYou are GOOD TO GO 👏👏👏",
+          "node_type": "group",
+          "title": "Show Preview in UIKit(Build UI with Code Base) 👍 👍 👍 👍 👍"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Markdown Preview Enhanced",
+              "description": "shd101wyy/markdown-preview-enhanced",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "One of the 'BEST' markdown preview extensions for Atom editor!",
+                "homepage": "https://shd101wyy.github.io/markdown-preview-enhanced",
+                "id": 34369372,
+                "language": "HTML",
+                "license": "NOASSERTION",
+                "last_commit": "2026-05-05T01:40:20Z",
+                "open_issues": 211,
+                "owner": "shd101wyy",
+                "repo": "markdown-preview-enhanced",
+                "stars": 4443,
+                "topics": [
+                  "atom",
+                  "atom-package",
+                  "katex",
+                  "markdown",
+                  "markdown-editor",
+                  "mathjax",
+                  "mermaid",
+                  "pandoc",
+                  "plantuml",
+                  "toc"
+                ]
+              },
+              "first_seen": "2026-10-05T02:06:15.461Z"
+            }
+          ],
+          "description": "how-to-write-a-readme will help you to write a README.md file more dynamically 👍\nAlso you can edit Readme.md file with VSCode Extension! Check out in VSCode!",
+          "node_type": "group",
+          "title": "Write README.md"
+        }
+      ],
+      "title": "Useful Stuff"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:44:37.111Z",
+    "last_updated": "2026-10-05T02:06:15.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
@@ -649,8 +725,8 @@
       "id": 356388461,
       "language": "Swift",
       "license": "MIT",
-      "last_commit": "2026-07-19T06:11:58Z",
-      "open_issues": 7,
+      "last_commit": "2026-10-04T08:35:58Z",
+      "open_issues": 6,
       "owner": "jphong1111",
       "repo": "awesome-ios-developer",
       "stars": 847,
@@ -669,7 +745,7 @@
         "usefull-materials"
       ]
     },
-    "original_repository_sha": "1450ec6badbf77692524575bd48edf60f75bbaad",
+    "original_repository_sha": "ac4b7cdeed891749852803c3e3cf5247d497f96a",
     "enhanced_repository": "enhansome/enhansome-ios-developer",
     "enhanced_repository_description": null,
     "title": "Awesome iOS Developer with stars"
