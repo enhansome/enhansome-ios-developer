@@ -50,7 +50,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-02T14:53:31Z",
-                "open_issues": 518,
+                "open_issues": 520,
                 "owner": "realm",
                 "repo": "SwiftLint",
                 "stars": 19748,
@@ -89,10 +89,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-09-18T18:51:18Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14950,
+            "stars": 14951,
             "topics": [
               "architecture",
               "composition",
@@ -330,7 +330,7 @@
             "open_issues": 27,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 53519,
+            "stars": 53530,
             "topics": [
               "apple-swift",
               "arkit",
@@ -444,8 +444,8 @@
             "id": 129699403,
             "language": "Elixir",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T01:57:24Z",
-            "open_issues": 464,
+            "last_commit": "2026-10-06T02:24:36Z",
+            "open_issues": 475,
             "owner": "tuist",
             "repo": "tuist",
             "stars": 5819,
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T02:06:15.461Z",
+    "last_updated": "2026-10-06T03:07:07.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
