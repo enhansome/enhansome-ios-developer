@@ -244,7 +244,7 @@ The way of force you to adapt coding convention
 
 > otherwise project build will **FAILED**
 
-* [Swift Lint](https://github.com/realm/SwiftLint) ⭐ 19,749 | 🐛 521 | 🌐 Swift | 📅 2026-10-02 apply for all project:+1:
+* [Swift Lint](https://github.com/realm/SwiftLint) ⭐ 19,750 | 🐛 521 | 🌐 Swift | 📅 2026-10-02 apply for all project:+1:
 
 ```swift
 if which swiftlint >/dev/null; then
@@ -473,7 +473,7 @@ Swift-DocC is a documentation compiler for Swift frameworks and packages aimed a
 
 Simple goes to Product-Build Documentation and DocC will open
 
-* [Swift DocC Apple Github](https://github.com/apple/swift-docc) ⭐ 1,370 | 🐛 131 | 🌐 Swift | 📅 2026-10-07
+* [Swift DocC Apple Github](https://github.com/apple/swift-docc) ⭐ 1,370 | 🐛 132 | 🌐 Swift | 📅 2026-10-08
 * [DocC Tutorial for Swift : Getting Started](https://www.kodeco.com/34919511-docc-tutorial-for-swift-getting-started)
 
 ## Code Structuring(Architecture)
@@ -541,7 +541,7 @@ The Composable Architecture is a library for building applications in a consiste
 
  <img src="https://github.com/jphong1111/Useful_Swift/blob/main/Images/SCA.png">
 
-* [The Composable Architecture GitHub](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,951 | 🐛 24 | 🌐 Swift | 📅 2026-10-06
+* [The Composable Architecture GitHub](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,952 | 🐛 26 | 🌐 Swift | 📅 2026-10-06
 * [Composable Architecture @ Point Free](https://www.pointfree.co/collections/composable-architecture)
 * [The Composable Architecture — One of the Best-Suited Architectures for SwiftUI](https://medium.com/swlh/the-composable-architecture-one-of-the-best-suited-architectures-for-swiftui-35bfc5102b83)
 
@@ -643,7 +643,7 @@ TBA
 
 You can use [Bundle+Extension.swift](https://github.com/jphong1111/awesome-ios-developer/blob/main/Bundle%2BExtension.swift) file to configure your bundle to your application.
 
-> Source code from : [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) ⭐ 5,388 | 🐛 20 | 🌐 Swift | 📅 2026-05-25
+> Source code from : [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) ⭐ 5,389 | 🐛 20 | 🌐 Swift | 📅 2026-05-25
 
 * [Bundles and Packages](https://nshipster.com/bundles-and-packages/)
 
@@ -1034,7 +1034,7 @@ Here is a example of JSONSerialization with actaul JSON file in project folder
 
 This library provide JSON parsing
 
-* [SwifyJSON](https://github.com/SwiftyJSON/SwiftyJSON) ⭐ 22,930 | 🐛 139 | 🌐 Swift | 📅 2026-08-18
+* [SwifyJSON](https://github.com/SwiftyJSON/SwiftyJSON) ⭐ 22,929 | 🐛 139 | 🌐 Swift | 📅 2026-08-18
 
 <p align="right">
 <a href="#-content">Back to Content</a>
@@ -1419,7 +1419,7 @@ Third Party Library saves you time as you do not need to develop the functionali
 
 > Relying on library(abused) is not a good idea
 
-* [awesome ios github](https://github.com/vsouza/awesome-ios) ⭐ 53,554 | 🐛 28 | 🌐 Swift | 📅 2026-08-27 Contains all the popular libraries in Swift:+1:
+* [awesome ios github](https://github.com/vsouza/awesome-ios) ⭐ 53,558 | 🐛 28 | 🌐 Swift | 📅 2026-08-27 Contains all the popular libraries in Swift:+1:
 * [awesome swift site](https://swift.libhunt.com/) You can broswe popular libraries related to iOS
 * [Explore Swift](https://kandi.openweaver.com/explore/swift) Discover & find a curated list of popular & new libraries, top authors and trending discussions on kandi.
 
@@ -1465,7 +1465,7 @@ $ pod install
 
 ## Carthage
 
-* [Carthage](https://github.com/Carthage/Carthage) ⭐ 15,146 | 🐛 217 | 🌐 Swift | 📅 2025-09-10
+* [Carthage](https://github.com/Carthage/Carthage) ⭐ 15,145 | 🐛 217 | 🌐 Swift | 📅 2025-09-10
 * [Getting started with Carthage to manage dependencies in Swift and iOS](https://www.twilio.com/blog/2016/05/getting-started-with-carthage-to-manage-dependencies-in-swift-and-ios.html)
 * [Carthage Tutorial: Getting Started](https://www.raywenderlich.com/7649117-carthage-tutorial-getting-started)
 
@@ -1971,7 +1971,7 @@ You can integrate Circle CI into Github repo, therefore we can use it in PR.
 
 ## Danger
 
-[Danger](https://github.com/danger/danger) ⭐ 5,694 | 🐛 168 | 🌐 Ruby | 📅 2026-07-29
+[Danger](https://github.com/danger/danger) ⭐ 5,694 | 🐛 166 | 🌐 Ruby | 📅 2026-10-09
 
 * Danger runs after your CI, automating your team's conventions surrounding code review.
 
@@ -1995,7 +1995,7 @@ For more info, go to [Apple Developer Website](https://developer.apple.com/docum
 
 # Tuist
 
-* [Tuist Github](https://github.com/tuist/tuist) ⭐ 5,819 | 🐛 476 | 🌐 Elixir | 📅 2026-10-07
+* [Tuist Github](https://github.com/tuist/tuist) ⭐ 5,824 | 🐛 477 | 🌐 Elixir | 📅 2026-10-08
 
 * Tuist is a command line tool that helps you generate, maintain and interact with Xcode projects.
 
@@ -2073,7 +2073,7 @@ Functional Reactive Programming
 
 ## Rxswift
 
-* [RxSwift](https://github.com/ReactiveX/RxSwift) ⭐ 24,630 | 🐛 17 | 🌐 Swift | 📅 2026-09-04 - Github Repository
+* [RxSwift](https://github.com/ReactiveX/RxSwift) ⭐ 24,632 | 🐛 17 | 🌐 Swift | 📅 2026-09-04 - Github Repository
 * [RxSwift raywenderlich](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift/v4.0)
 * [RxSwift](http://reactivex.io/intro.html) - Website
 
@@ -2517,7 +2517,7 @@ this feature deprecated in Xcode 13(BETA) <img src="https://github.com/jphong111
 
 Also you can edit Readme.md file with VSCode Extension! Check out in VSCode!
 
-[Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) ⭐ 4,442 | 🐛 211 | 🌐 HTML | 📅 2026-05-05
+[Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) ⭐ 4,442 | 🐛 210 | 🌐 HTML | 📅 2026-10-09
 
 <p align="right">
 <a href="#-content">Back to Content</a>
@@ -2550,4 +2550,4 @@ email: <ghdwjdvy96@gmail.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
