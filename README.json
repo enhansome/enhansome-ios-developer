@@ -49,11 +49,11 @@
                 "id": 35732214,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-02T14:53:31Z",
-                "open_issues": 521,
+                "last_commit": "2026-10-09T14:56:08Z",
+                "open_issues": 527,
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19750,
+                "stars": 19753,
                 "topics": [
                   "code-quality",
                   "hacktoberfest",
@@ -92,7 +92,7 @@
             "open_issues": 26,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14952,
+            "stars": 14954,
             "topics": [
               "architecture",
               "composition",
@@ -122,7 +122,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4463,
+                "stars": 4464,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -327,10 +327,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-08-27T19:34:29Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 53558,
+            "stars": 53568,
             "topics": [
               "apple-swift",
               "arkit",
@@ -406,7 +406,7 @@
                 "open_issues": 166,
                 "owner": "danger",
                 "repo": "danger",
-                "stars": 5694,
+                "stars": 5695,
                 "topics": [
                   "automation",
                   "bitbucket",
@@ -444,8 +444,8 @@
             "id": 129699403,
             "language": "Elixir",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T21:20:59Z",
-            "open_issues": 477,
+            "last_commit": "2026-10-10T02:08:22Z",
+            "open_issues": 484,
             "owner": "tuist",
             "repo": "tuist",
             "stars": 5824,
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:58:52.978Z",
+    "last_updated": "2026-10-10T02:25:48.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
