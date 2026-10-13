@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "linkedin",
                 "repo": "swift-style-guide",
-                "stars": 1453,
+                "stars": 1454,
                 "topics": [
                   "ios",
                   "style-guide",
@@ -92,7 +92,7 @@
             "open_issues": 26,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14955,
+            "stars": 14956,
             "topics": [
               "architecture",
               "composition",
@@ -122,7 +122,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4464,
+                "stars": 4463,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -330,7 +330,7 @@
             "open_issues": 29,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 53584,
+            "stars": 53591,
             "topics": [
               "apple-swift",
               "arkit",
@@ -367,7 +367,7 @@
                 "open_issues": 217,
                 "owner": "Carthage",
                 "repo": "Carthage",
-                "stars": 15143,
+                "stars": 15141,
                 "topics": [
                   "carthage",
                   "cocoa",
@@ -444,11 +444,11 @@
             "id": 129699403,
             "language": "Elixir",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T00:27:08Z",
-            "open_issues": 486,
+            "last_commit": "2026-10-13T00:43:40Z",
+            "open_issues": 489,
             "owner": "tuist",
             "repo": "tuist",
-            "stars": 5826,
+            "stars": 5828,
             "topics": [
               "gradle",
               "ios",
@@ -485,7 +485,7 @@
                 "open_issues": 17,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24633,
+                "stars": 24631,
                 "topics": [
                   "functional",
                   "ios",
@@ -691,7 +691,7 @@
                 "open_issues": 210,
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4443,
+                "stars": 4446,
                 "topics": [
                   "atom",
                   "atom-package",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:29:37.545Z",
+    "last_updated": "2026-10-13T03:38:37.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
