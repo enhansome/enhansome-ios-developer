@@ -244,7 +244,7 @@ The way of force you to adapt coding convention
 
 > otherwise project build will **FAILED**
 
-* [Swift Lint](https://github.com/realm/SwiftLint) ⭐ 19,762 | 🐛 536 | 🌐 Swift | 📅 2026-10-16 apply for all project:+1:
+* [Swift Lint](https://github.com/realm/SwiftLint) ⭐ 19,763 | 🐛 536 | 🌐 Swift | 📅 2026-10-16 apply for all project:+1:
 
 ```swift
 if which swiftlint >/dev/null; then
@@ -473,7 +473,7 @@ Swift-DocC is a documentation compiler for Swift frameworks and packages aimed a
 
 Simple goes to Product-Build Documentation and DocC will open
 
-* [Swift DocC Apple Github](https://github.com/apple/swift-docc) ⭐ 1,370 | 🐛 132 | 🌐 Swift | 📅 2026-10-16
+* [Swift DocC Apple Github](https://github.com/apple/swift-docc) ⭐ 1,370 | 🐛 132 | 🌐 Swift | 📅 2026-10-17
 * [DocC Tutorial for Swift : Getting Started](https://www.kodeco.com/34919511-docc-tutorial-for-swift-getting-started)
 
 ## Code Structuring(Architecture)
@@ -541,7 +541,7 @@ The Composable Architecture is a library for building applications in a consiste
 
  <img src="https://github.com/jphong1111/Useful_Swift/blob/main/Images/SCA.png">
 
-* [The Composable Architecture GitHub](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,960 | 🐛 26 | 🌐 Swift | 📅 2026-10-06
+* [The Composable Architecture GitHub](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,962 | 🐛 26 | 🌐 Swift | 📅 2026-10-06
 * [Composable Architecture @ Point Free](https://www.pointfree.co/collections/composable-architecture)
 * [The Composable Architecture — One of the Best-Suited Architectures for SwiftUI](https://medium.com/swlh/the-composable-architecture-one-of-the-best-suited-architectures-for-swiftui-35bfc5102b83)
 
@@ -577,7 +577,7 @@ SwiftUI is a user interface toolkit that lets us design apps in a **declarative 
 
 ## Useful Cheat Sheet for SwiftUI
 
-* [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) ⭐ 4,464 | 🐛 3 | 📅 2022-09-04
+* [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) ⭐ 4,465 | 🐛 3 | 📅 2022-09-04
 * [Fucking SwiftUI](https://fuckingswiftui.com/) Cheat Sheet for SwiftUI
 * [Gosh Darn SwiftUI](https://goshdarnswiftui.com/) Cheat Sheet for SwiftUI
 
@@ -1419,7 +1419,7 @@ Third Party Library saves you time as you do not need to develop the functionali
 
 > Relying on library(abused) is not a good idea
 
-* [awesome ios github](https://github.com/vsouza/awesome-ios) ⭐ 53,634 | 🐛 29 | 🌐 Swift | 📅 2026-08-27 Contains all the popular libraries in Swift:+1:
+* [awesome ios github](https://github.com/vsouza/awesome-ios) ⭐ 53,644 | 🐛 29 | 🌐 Swift | 📅 2026-08-27 Contains all the popular libraries in Swift:+1:
 * [awesome swift site](https://swift.libhunt.com/) You can broswe popular libraries related to iOS
 * [Explore Swift](https://kandi.openweaver.com/explore/swift) Discover & find a curated list of popular & new libraries, top authors and trending discussions on kandi.
 
@@ -1465,7 +1465,7 @@ $ pod install
 
 ## Carthage
 
-* [Carthage](https://github.com/Carthage/Carthage) ⭐ 15,140 | 🐛 217 | 🌐 Swift | 📅 2025-09-10
+* [Carthage](https://github.com/Carthage/Carthage) ⭐ 15,139 | 🐛 219 | 🌐 Swift | 📅 2025-09-10
 * [Getting started with Carthage to manage dependencies in Swift and iOS](https://www.twilio.com/blog/2016/05/getting-started-with-carthage-to-manage-dependencies-in-swift-and-ios.html)
 * [Carthage Tutorial: Getting Started](https://www.raywenderlich.com/7649117-carthage-tutorial-getting-started)
 
@@ -1995,7 +1995,7 @@ For more info, go to [Apple Developer Website](https://developer.apple.com/docum
 
 # Tuist
 
-* [Tuist Github](https://github.com/tuist/tuist) ⭐ 5,834 | 🐛 511 | 🌐 Elixir | 📅 2026-10-16
+* [Tuist Github](https://github.com/tuist/tuist) ⭐ 5,834 | 🐛 511 | 🌐 Elixir | 📅 2026-10-17
 
 * Tuist is a command line tool that helps you generate, maintain and interact with Xcode projects.
 
@@ -2073,7 +2073,7 @@ Functional Reactive Programming
 
 ## Rxswift
 
-* [RxSwift](https://github.com/ReactiveX/RxSwift) ⭐ 24,628 | 🐛 17 | 🌐 Swift | 📅 2026-09-04 - Github Repository
+* [RxSwift](https://github.com/ReactiveX/RxSwift) ⭐ 24,626 | 🐛 17 | 🌐 Swift | 📅 2026-09-04 - Github Repository
 * [RxSwift raywenderlich](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift/v4.0)
 * [RxSwift](http://reactivex.io/intro.html) - Website
 
@@ -2406,7 +2406,7 @@ You can check the iOS Version adoption in this site
 > Now Apple officially support Preview\
 > [previews-in-xcode](https://developer.apple.com/documentation/swiftui/previews-in-xcode)
 
-[Inject (3rd Party Library)](https://github.com/krzysztofzablocki/Inject) ⭐ 3,487 | 🐛 0 | 🌐 Swift | 📅 2026-04-29
+[Inject (3rd Party Library)](https://github.com/krzysztofzablocki/Inject) ⭐ 3,488 | 🐛 0 | 🌐 Swift | 📅 2026-04-29
 
 Copy this code and Paste into your controller
 
@@ -2502,7 +2502,7 @@ For More Info, visit [here](https://www.raywenderlich.com/19998365-understanding
 
 ## Roadmap for iOS Developer
 
-check this out [here](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) ⭐ 6,415 | 🐛 11 | 🌐 Swift | 📅 2024-01-25
+check this out [here](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) ⭐ 6,414 | 🐛 11 | 🌐 Swift | 📅 2024-01-25
 
 ## Use VIM in Xcode
 
@@ -2550,4 +2550,4 @@ email: <ghdwjdvy96@gmail.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
