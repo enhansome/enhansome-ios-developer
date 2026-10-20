@@ -92,7 +92,7 @@
             "open_issues": 26,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14972,
+            "stars": 14979,
             "topics": [
               "architecture",
               "composition",
@@ -330,7 +330,7 @@
             "open_issues": 29,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 53663,
+            "stars": 53679,
             "topics": [
               "apple-swift",
               "arkit",
@@ -403,10 +403,10 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-10-09T02:14:48Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "danger",
                 "repo": "danger",
-                "stars": 5694,
+                "stars": 5695,
                 "topics": [
                   "automation",
                   "bitbucket",
@@ -444,11 +444,11 @@
             "id": 129699403,
             "language": "Elixir",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T00:13:28Z",
-            "open_issues": 515,
+            "last_commit": "2026-10-20T01:42:34Z",
+            "open_issues": 525,
             "owner": "tuist",
             "repo": "tuist",
-            "stars": 5835,
+            "stars": 5836,
             "topics": [
               "gradle",
               "ios",
@@ -567,8 +567,8 @@
                     "id": 30566161,
                     "language": "Objective-C",
                     "license": "MIT",
-                    "last_commit": "2026-10-16T19:15:16Z",
-                    "open_issues": 11,
+                    "last_commit": "2026-10-20T01:12:38Z",
+                    "open_issues": 8,
                     "owner": "datatheorem",
                     "repo": "TrustKit",
                     "stars": 2143,
@@ -691,7 +691,7 @@
                 "open_issues": 210,
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4447,
+                "stars": 4448,
                 "topics": [
                   "atom",
                   "atom-package",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T01:22:54.448Z",
+    "last_updated": "2026-10-20T01:54:45.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
