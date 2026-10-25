@@ -53,7 +53,7 @@
                 "open_issues": 537,
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19772,
+                "stars": 19774,
                 "topics": [
                   "code-quality",
                   "hacktoberfest",
@@ -92,7 +92,7 @@
             "open_issues": 27,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14985,
+            "stars": 14988,
             "topics": [
               "architecture",
               "composition",
@@ -122,7 +122,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4466,
+                "stars": 4467,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -330,7 +330,7 @@
             "open_issues": 29,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 53734,
+            "stars": 53758,
             "topics": [
               "apple-swift",
               "arkit",
@@ -406,7 +406,7 @@
                 "open_issues": 170,
                 "owner": "danger",
                 "repo": "danger",
-                "stars": 5696,
+                "stars": 5697,
                 "topics": [
                   "automation",
                   "bitbucket",
@@ -444,8 +444,8 @@
             "id": 129699403,
             "language": "Elixir",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T00:19:34Z",
-            "open_issues": 549,
+            "last_commit": "2026-10-24T22:50:18Z",
+            "open_issues": 550,
             "owner": "tuist",
             "repo": "tuist",
             "stars": 5848,
@@ -485,7 +485,7 @@
                 "open_issues": 19,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24628,
+                "stars": 24629,
                 "topics": [
                   "functional",
                   "ios",
@@ -522,7 +522,7 @@
                 "open_issues": 7,
                 "owner": "CombineCommunity",
                 "repo": "RxCombine",
-                "stars": 1044,
+                "stars": 1043,
                 "topics": [
                   "applecombine",
                   "combine",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:42:01.097Z",
+    "last_updated": "2026-10-25T01:17:39.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
