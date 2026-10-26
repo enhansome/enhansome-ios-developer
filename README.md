@@ -473,7 +473,7 @@ Swift-DocC is a documentation compiler for Swift frameworks and packages aimed a
 
 Simple goes to Product-Build Documentation and DocC will open
 
-* [Swift DocC Apple Github](https://github.com/apple/swift-docc) ⭐ 1,371 | 🐛 136 | 🌐 Swift | 📅 2026-10-24
+* [Swift DocC Apple Github](https://github.com/apple/swift-docc) ⭐ 1,371 | 🐛 136 | 🌐 Swift | 📅 2026-10-25
 * [DocC Tutorial for Swift : Getting Started](https://www.kodeco.com/34919511-docc-tutorial-for-swift-getting-started)
 
 ## Code Structuring(Architecture)
@@ -1419,7 +1419,7 @@ Third Party Library saves you time as you do not need to develop the functionali
 
 > Relying on library(abused) is not a good idea
 
-* [awesome ios github](https://github.com/vsouza/awesome-ios) ⭐ 53,758 | 🐛 29 | 🌐 Swift | 📅 2026-08-27 Contains all the popular libraries in Swift:+1:
+* [awesome ios github](https://github.com/vsouza/awesome-ios) ⭐ 53,775 | 🐛 30 | 🌐 Swift | 📅 2026-08-27 Contains all the popular libraries in Swift:+1:
 * [awesome swift site](https://swift.libhunt.com/) You can broswe popular libraries related to iOS
 * [Explore Swift](https://kandi.openweaver.com/explore/swift) Discover & find a curated list of popular & new libraries, top authors and trending discussions on kandi.
 
@@ -1465,7 +1465,7 @@ $ pod install
 
 ## Carthage
 
-* [Carthage](https://github.com/Carthage/Carthage) ⭐ 15,144 | 🐛 219 | 🌐 Swift | 📅 2025-09-10
+* [Carthage](https://github.com/Carthage/Carthage) ⭐ 15,145 | 🐛 219 | 🌐 Swift | 📅 2025-09-10
 * [Getting started with Carthage to manage dependencies in Swift and iOS](https://www.twilio.com/blog/2016/05/getting-started-with-carthage-to-manage-dependencies-in-swift-and-ios.html)
 * [Carthage Tutorial: Getting Started](https://www.raywenderlich.com/7649117-carthage-tutorial-getting-started)
 
@@ -1971,7 +1971,7 @@ You can integrate Circle CI into Github repo, therefore we can use it in PR.
 
 ## Danger
 
-[Danger](https://github.com/danger/danger) ⭐ 5,697 | 🐛 170 | 🌐 Ruby | 📅 2026-10-09
+[Danger](https://github.com/danger/danger) ⭐ 5,699 | 🐛 170 | 🌐 Ruby | 📅 2026-10-09
 
 * Danger runs after your CI, automating your team's conventions surrounding code review.
 
@@ -1995,7 +1995,7 @@ For more info, go to [Apple Developer Website](https://developer.apple.com/docum
 
 # Tuist
 
-* [Tuist Github](https://github.com/tuist/tuist) ⭐ 5,848 | 🐛 550 | 🌐 Elixir | 📅 2026-10-24
+* [Tuist Github](https://github.com/tuist/tuist) ⭐ 5,849 | 🐛 543 | 🌐 Elixir | 📅 2026-10-25
 
 * Tuist is a command line tool that helps you generate, maintain and interact with Xcode projects.
 
@@ -2073,7 +2073,7 @@ Functional Reactive Programming
 
 ## Rxswift
 
-* [RxSwift](https://github.com/ReactiveX/RxSwift) ⭐ 24,629 | 🐛 19 | 🌐 Swift | 📅 2026-09-04 - Github Repository
+* [RxSwift](https://github.com/ReactiveX/RxSwift) ⭐ 24,630 | 🐛 19 | 🌐 Swift | 📅 2026-09-04 - Github Repository
 * [RxSwift raywenderlich](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift/v4.0)
 * [RxSwift](http://reactivex.io/intro.html) - Website
 
@@ -2502,7 +2502,7 @@ For More Info, visit [here](https://www.raywenderlich.com/19998365-understanding
 
 ## Roadmap for iOS Developer
 
-check this out [here](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) ⭐ 6,415 | 🐛 11 | 🌐 Swift | 📅 2024-01-25
+check this out [here](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) ⭐ 6,417 | 🐛 11 | 🌐 Swift | 📅 2024-01-25
 
 ## Use VIM in Xcode
 
@@ -2550,4 +2550,4 @@ email: <ghdwjdvy96@gmail.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
