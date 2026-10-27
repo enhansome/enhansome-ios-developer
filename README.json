@@ -50,10 +50,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-16T14:54:03Z",
-                "open_issues": 537,
+                "open_issues": 538,
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19774,
+                "stars": 19775,
                 "topics": [
                   "code-quality",
                   "hacktoberfest",
@@ -92,7 +92,7 @@
             "open_issues": 27,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14988,
+            "stars": 14991,
             "topics": [
               "architecture",
               "composition",
@@ -162,7 +162,7 @@
                 "open_issues": 8,
                 "owner": "jphong1111",
                 "repo": "awesome-ios-developer",
-                "stars": 847,
+                "stars": 848,
                 "topics": [
                   "apple",
                   "awesome",
@@ -203,7 +203,7 @@
                 "open_issues": 8,
                 "owner": "jphong1111",
                 "repo": "awesome-ios-developer",
-                "stars": 847,
+                "stars": 848,
                 "topics": [
                   "apple",
                   "awesome",
@@ -244,7 +244,7 @@
                 "open_issues": 8,
                 "owner": "jphong1111",
                 "repo": "awesome-ios-developer",
-                "stars": 847,
+                "stars": 848,
                 "topics": [
                   "apple",
                   "awesome",
@@ -285,7 +285,7 @@
                 "open_issues": 8,
                 "owner": "jphong1111",
                 "repo": "awesome-ios-developer",
-                "stars": 847,
+                "stars": 848,
                 "topics": [
                   "apple",
                   "awesome",
@@ -327,10 +327,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-08-27T19:34:29Z",
-            "open_issues": 30,
+            "open_issues": 32,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 53775,
+            "stars": 53787,
             "topics": [
               "apple-swift",
               "arkit",
@@ -367,7 +367,7 @@
                 "open_issues": 219,
                 "owner": "Carthage",
                 "repo": "Carthage",
-                "stars": 15145,
+                "stars": 15143,
                 "topics": [
                   "carthage",
                   "cocoa",
@@ -444,11 +444,11 @@
             "id": 129699403,
             "language": "Elixir",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T22:46:58Z",
-            "open_issues": 543,
+            "last_commit": "2026-10-26T23:12:06Z",
+            "open_issues": 554,
             "owner": "tuist",
             "repo": "tuist",
-            "stars": 5849,
+            "stars": 5851,
             "topics": [
               "gradle",
               "ios",
@@ -485,7 +485,7 @@
                 "open_issues": 19,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24630,
+                "stars": 24631,
                 "topics": [
                   "functional",
                   "ios",
@@ -567,7 +567,7 @@
                     "id": 30566161,
                     "language": "Objective-C",
                     "license": "MIT",
-                    "last_commit": "2026-10-23T13:22:07Z",
+                    "last_commit": "2026-10-26T20:05:04Z",
                     "open_issues": 2,
                     "owner": "datatheorem",
                     "repo": "TrustKit",
@@ -616,7 +616,7 @@
             "open_issues": 8,
             "owner": "jphong1111",
             "repo": "awesome-ios-developer",
-            "stars": 847,
+            "stars": 848,
             "topics": [
               "apple",
               "awesome",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T01:20:25.975Z",
+    "last_updated": "2026-10-27T02:09:30.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
@@ -729,7 +729,7 @@
       "open_issues": 8,
       "owner": "jphong1111",
       "repo": "awesome-ios-developer",
-      "stars": 847,
+      "stars": 848,
       "topics": [
         "apple",
         "awesome",
