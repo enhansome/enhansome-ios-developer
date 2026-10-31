@@ -244,7 +244,7 @@ The way of force you to adapt coding convention
 
 > otherwise project build will **FAILED**
 
-* [Swift Lint](https://github.com/realm/SwiftLint) ⭐ 19,780 | 🐛 538 | 🌐 Swift | 📅 2026-10-16 apply for all project:+1:
+* [Swift Lint](https://github.com/realm/SwiftLint) ⭐ 19,779 | 🐛 540 | 🌐 Swift | 📅 2026-10-16 apply for all project:+1:
 
 ```swift
 if which swiftlint >/dev/null; then
@@ -473,7 +473,7 @@ Swift-DocC is a documentation compiler for Swift frameworks and packages aimed a
 
 Simple goes to Product-Build Documentation and DocC will open
 
-* [Swift DocC Apple Github](https://github.com/apple/swift-docc) ⭐ 1,371 | 🐛 129 | 🌐 Swift | 📅 2026-10-30
+* [Swift DocC Apple Github](https://github.com/apple/swift-docc) ⭐ 1,371 | 🐛 130 | 🌐 Swift | 📅 2026-10-30
 * [DocC Tutorial for Swift : Getting Started](https://www.kodeco.com/34919511-docc-tutorial-for-swift-getting-started)
 
 ## Code Structuring(Architecture)
@@ -541,7 +541,7 @@ The Composable Architecture is a library for building applications in a consiste
 
  <img src="https://github.com/jphong1111/Useful_Swift/blob/main/Images/SCA.png">
 
-* [The Composable Architecture GitHub](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,999 | 🐛 28 | 🌐 Swift | 📅 2026-10-27
+* [The Composable Architecture GitHub](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,000 | 🐛 28 | 🌐 Swift | 📅 2026-10-27
 * [Composable Architecture @ Point Free](https://www.pointfree.co/collections/composable-architecture)
 * [The Composable Architecture — One of the Best-Suited Architectures for SwiftUI](https://medium.com/swlh/the-composable-architecture-one-of-the-best-suited-architectures-for-swiftui-35bfc5102b83)
 
@@ -577,7 +577,7 @@ SwiftUI is a user interface toolkit that lets us design apps in a **declarative 
 
 ## Useful Cheat Sheet for SwiftUI
 
-* [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) ⭐ 4,467 | 🐛 3 | 📅 2022-09-04
+* [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) ⭐ 4,468 | 🐛 3 | 📅 2022-09-04
 * [Fucking SwiftUI](https://fuckingswiftui.com/) Cheat Sheet for SwiftUI
 * [Gosh Darn SwiftUI](https://goshdarnswiftui.com/) Cheat Sheet for SwiftUI
 
@@ -671,7 +671,7 @@ All files are resuable files and protocol oriented. **Just Copy and Paste inside
 
 You can check the file in the follow link
 
-* [Email, Message, Call](https://github.com/jphong1111/Useful_Swift/blob/main/Helper/ConversationHandler/ConversationManager.swift) ⭐ 847 | 🐛 10 | 🌐 Swift | 📅 2026-10-04
+* [Email, Message, Call](https://github.com/jphong1111/Useful_Swift/blob/main/Helper/ConversationHandler/ConversationManager.swift) ⭐ 847 | 🐛 9 | 🌐 Swift | 📅 2026-10-04
 
 ### Usage
 
@@ -709,7 +709,7 @@ Good To GO 👏👏👏
 
 ## Network Layer
 
-* [Network Layer](https://github.com/jphong1111/Useful_Swift/tree/main/Helper/Network%20Layer) ⭐ 847 | 🐛 10 | 🌐 Swift | 📅 2026-10-04
+* [Network Layer](https://github.com/jphong1111/Useful_Swift/tree/main/Helper/Network%20Layer) ⭐ 847 | 🐛 9 | 🌐 Swift | 📅 2026-10-04
 
 ### Usage
 
@@ -780,11 +780,11 @@ If you want to see how can I use Network Layer in Project, check [this](https://
 
 This reusable network layer files for referenced from [here](https://medium.com/flawless-app-stories/writing-network-layer-in-swift-protocol-oriented-approach-4fa40ef1f908)
 
-> Also [Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,394 | 🐛 45 | 🌐 Swift | 📅 2026-10-10 will be a great option for Network Layer!
+> Also [Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,395 | 🐛 43 | 🌐 Swift | 📅 2026-10-30 will be a great option for Network Layer!
 
 ## Image Picker
 
-* [Image Picker](https://github.com/jphong1111/Useful_Swift/blob/main/Helper/ImagePickerHandler/ImagePicker.swift) ⭐ 847 | 🐛 10 | 🌐 Swift | 📅 2026-10-04
+* [Image Picker](https://github.com/jphong1111/Useful_Swift/blob/main/Helper/ImagePickerHandler/ImagePicker.swift) ⭐ 847 | 🐛 9 | 🌐 Swift | 📅 2026-10-04
 
 ### Usage
 
@@ -869,7 +869,7 @@ Good To GO 👏👏👏
 
 ## Location Manager
 
-* ~~[Location Manager](https://github.com/jphong1111/Useful_Swift/tree/main/Helper/LocationHandler/LocationManager.swift) ⭐ 847 | 🐛 10 | 🌐 Swift | 📅 2026-10-04~~
+* ~~[Location Manager](https://github.com/jphong1111/Useful_Swift/tree/main/Helper/LocationHandler/LocationManager.swift) ⭐ 847 | 🐛 9 | 🌐 Swift | 📅 2026-10-04~~
 
 Currently Working
 
@@ -1419,7 +1419,7 @@ Third Party Library saves you time as you do not need to develop the functionali
 
 > Relying on library(abused) is not a good idea
 
-* [awesome ios github](https://github.com/vsouza/awesome-ios) ⭐ 53,813 | 🐛 33 | 🌐 Swift | 📅 2026-08-27 Contains all the popular libraries in Swift:+1:
+* [awesome ios github](https://github.com/vsouza/awesome-ios) ⭐ 53,822 | 🐛 32 | 🌐 Swift | 📅 2026-08-27 Contains all the popular libraries in Swift:+1:
 * [awesome swift site](https://swift.libhunt.com/) You can broswe popular libraries related to iOS
 * [Explore Swift](https://kandi.openweaver.com/explore/swift) Discover & find a curated list of popular & new libraries, top authors and trending discussions on kandi.
 
@@ -1465,7 +1465,7 @@ $ pod install
 
 ## Carthage
 
-* [Carthage](https://github.com/Carthage/Carthage) ⭐ 15,142 | 🐛 219 | 🌐 Swift | 📅 2025-09-10
+* [Carthage](https://github.com/Carthage/Carthage) ⭐ 15,141 | 🐛 219 | 🌐 Swift | 📅 2025-09-10
 * [Getting started with Carthage to manage dependencies in Swift and iOS](https://www.twilio.com/blog/2016/05/getting-started-with-carthage-to-manage-dependencies-in-swift-and-ios.html)
 * [Carthage Tutorial: Getting Started](https://www.raywenderlich.com/7649117-carthage-tutorial-getting-started)
 
@@ -1971,7 +1971,7 @@ You can integrate Circle CI into Github repo, therefore we can use it in PR.
 
 ## Danger
 
-[Danger](https://github.com/danger/danger) ⭐ 5,697 | 🐛 172 | 🌐 Ruby | 📅 2026-10-09
+[Danger](https://github.com/danger/danger) ⭐ 5,699 | 🐛 172 | 🌐 Ruby | 📅 2026-10-09
 
 * Danger runs after your CI, automating your team's conventions surrounding code review.
 
@@ -1995,7 +1995,7 @@ For more info, go to [Apple Developer Website](https://developer.apple.com/docum
 
 # Tuist
 
-* [Tuist Github](https://github.com/tuist/tuist) ⭐ 5,852 | 🐛 606 | 🌐 Elixir | 📅 2026-10-30
+* [Tuist Github](https://github.com/tuist/tuist) ⭐ 5,854 | 🐛 597 | 🌐 Elixir | 📅 2026-10-30
 
 * Tuist is a command line tool that helps you generate, maintain and interact with Xcode projects.
 
@@ -2239,7 +2239,7 @@ sessionManager.request("https://yourdomain.com").responseString { (dataResponse)
 
 TrustKit makes it easy to deploy SSL public key pinning
 
-[TrustKit](https://github.com/datatheorem/TrustKit) ⭐ 2,142 | 🐛 3 | 🌐 Objective-C | 📅 2026-10-28
+[TrustKit](https://github.com/datatheorem/TrustKit) ⭐ 2,143 | 🐛 3 | 🌐 Objective-C | 📅 2026-10-28
 
 ## Code Obfuscation
 
@@ -2359,7 +2359,7 @@ Bridging header means access classes and other declarations from your Objective-
 
 Find your common error here
 
-[Error Search](https://github.com/jphong1111/Useful_Swift/blob/error-search/README.md) ⭐ 847 | 🐛 10 | 🌐 Swift | 📅 2026-10-04
+[Error Search](https://github.com/jphong1111/Useful_Swift/blob/error-search/README.md) ⭐ 847 | 🐛 9 | 🌐 Swift | 📅 2026-10-04
 
 # Useful Stuff
 
@@ -2406,7 +2406,7 @@ You can check the iOS Version adoption in this site
 > Now Apple officially support Preview\
 > [previews-in-xcode](https://developer.apple.com/documentation/swiftui/previews-in-xcode)
 
-[Inject (3rd Party Library)](https://github.com/krzysztofzablocki/Inject) ⭐ 3,488 | 🐛 0 | 🌐 Swift | 📅 2026-04-29
+[Inject (3rd Party Library)](https://github.com/krzysztofzablocki/Inject) ⭐ 3,490 | 🐛 0 | 🌐 Swift | 📅 2026-04-29
 
 Copy this code and Paste into your controller
 
@@ -2517,7 +2517,7 @@ this feature deprecated in Xcode 13(BETA) <img src="https://github.com/jphong111
 
 Also you can edit Readme.md file with VSCode Extension! Check out in VSCode!
 
-[Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) ⭐ 4,455 | 🐛 210 | 🌐 HTML | 📅 2026-10-09
+[Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) ⭐ 4,456 | 🐛 210 | 🌐 HTML | 📅 2026-10-09
 
 <p align="right">
 <a href="#-content">Back to Content</a>
@@ -2550,4 +2550,4 @@ email: <ghdwjdvy96@gmail.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
