@@ -49,8 +49,8 @@
                 "id": 35732214,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-16T14:54:03Z",
-                "open_issues": 539,
+                "last_commit": "2026-11-03T21:56:00Z",
+                "open_issues": 537,
                 "owner": "realm",
                 "repo": "SwiftLint",
                 "stars": 19778,
@@ -330,7 +330,7 @@
             "open_issues": 34,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 53846,
+            "stars": 53858,
             "topics": [
               "apple-swift",
               "arkit",
@@ -406,7 +406,7 @@
                 "open_issues": 172,
                 "owner": "danger",
                 "repo": "danger",
-                "stars": 5699,
+                "stars": 5698,
                 "topics": [
                   "automation",
                   "bitbucket",
@@ -444,11 +444,11 @@
             "id": 129699403,
             "language": "Elixir",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T02:37:23Z",
-            "open_issues": 604,
+            "last_commit": "2026-11-04T02:57:14Z",
+            "open_issues": 588,
             "owner": "tuist",
             "repo": "tuist",
-            "stars": 5860,
+            "stars": 5857,
             "topics": [
               "gradle",
               "ios",
@@ -485,7 +485,7 @@
                 "open_issues": 19,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24632,
+                "stars": 24628,
                 "topics": [
                   "functional",
                   "ios",
@@ -567,8 +567,8 @@
                     "id": 30566161,
                     "language": "Objective-C",
                     "license": "MIT",
-                    "last_commit": "2026-11-02T16:54:32Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-11-03T18:26:41Z",
+                    "open_issues": 2,
                     "owner": "datatheorem",
                     "repo": "TrustKit",
                     "stars": 2144,
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:57:10.187Z",
+    "last_updated": "2026-11-04T03:02:19.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
