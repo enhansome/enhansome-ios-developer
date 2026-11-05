@@ -49,11 +49,11 @@
                 "id": 35732214,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-03T21:56:00Z",
+                "last_commit": "2026-11-04T16:20:14Z",
                 "open_issues": 537,
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19778,
+                "stars": 19780,
                 "topics": [
                   "code-quality",
                   "hacktoberfest",
@@ -88,11 +88,11 @@
             "id": 261039251,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-27T18:51:29Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-04T21:20:04Z",
+            "open_issues": 29,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 15003,
+            "stars": 15004,
             "topics": [
               "architecture",
               "composition",
@@ -122,7 +122,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4467,
+                "stars": 4466,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -330,7 +330,7 @@
             "open_issues": 34,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 53858,
+            "stars": 53870,
             "topics": [
               "apple-swift",
               "arkit",
@@ -367,7 +367,7 @@
                 "open_issues": 219,
                 "owner": "Carthage",
                 "repo": "Carthage",
-                "stars": 15140,
+                "stars": 15139,
                 "topics": [
                   "carthage",
                   "cocoa",
@@ -406,7 +406,7 @@
                 "open_issues": 172,
                 "owner": "danger",
                 "repo": "danger",
-                "stars": 5698,
+                "stars": 5697,
                 "topics": [
                   "automation",
                   "bitbucket",
@@ -444,11 +444,11 @@
             "id": 129699403,
             "language": "Elixir",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T02:57:14Z",
+            "last_commit": "2026-11-05T03:25:50Z",
             "open_issues": 588,
             "owner": "tuist",
             "repo": "tuist",
-            "stars": 5857,
+            "stars": 5859,
             "topics": [
               "gradle",
               "ios",
@@ -571,7 +571,7 @@
                     "open_issues": 2,
                     "owner": "datatheorem",
                     "repo": "TrustKit",
-                    "stars": 2144,
+                    "stars": 2145,
                     "topics": [
                       "ios",
                       "macos",
@@ -658,7 +658,7 @@
                 "open_issues": 0,
                 "owner": "krzysztofzablocki",
                 "repo": "Inject",
-                "stars": 3493,
+                "stars": 3492,
                 "topics": [
                   "hot-reload",
                   "ios",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T03:02:19.260Z",
+    "last_updated": "2026-11-05T03:33:20.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",

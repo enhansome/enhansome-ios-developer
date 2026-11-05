@@ -244,7 +244,7 @@ The way of force you to adapt coding convention
 
 > otherwise project build will **FAILED**
 
-* [Swift Lint](https://github.com/realm/SwiftLint) ⭐ 19,778 | 🐛 537 | 🌐 Swift | 📅 2026-11-03 apply for all project:+1:
+* [Swift Lint](https://github.com/realm/SwiftLint) ⭐ 19,780 | 🐛 537 | 🌐 Swift | 📅 2026-11-04 apply for all project:+1:
 
 ```swift
 if which swiftlint >/dev/null; then
@@ -473,7 +473,7 @@ Swift-DocC is a documentation compiler for Swift frameworks and packages aimed a
 
 Simple goes to Product-Build Documentation and DocC will open
 
-* [Swift DocC Apple Github](https://github.com/apple/swift-docc) ⭐ 1,371 | 🐛 133 | 🌐 Swift | 📅 2026-11-03
+* [Swift DocC Apple Github](https://github.com/apple/swift-docc) ⭐ 1,371 | 🐛 134 | 🌐 Swift | 📅 2026-11-04
 * [DocC Tutorial for Swift : Getting Started](https://www.kodeco.com/34919511-docc-tutorial-for-swift-getting-started)
 
 ## Code Structuring(Architecture)
@@ -541,7 +541,7 @@ The Composable Architecture is a library for building applications in a consiste
 
  <img src="https://github.com/jphong1111/Useful_Swift/blob/main/Images/SCA.png">
 
-* [The Composable Architecture GitHub](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,003 | 🐛 28 | 🌐 Swift | 📅 2026-10-27
+* [The Composable Architecture GitHub](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,004 | 🐛 29 | 🌐 Swift | 📅 2026-11-04
 * [Composable Architecture @ Point Free](https://www.pointfree.co/collections/composable-architecture)
 * [The Composable Architecture — One of the Best-Suited Architectures for SwiftUI](https://medium.com/swlh/the-composable-architecture-one-of-the-best-suited-architectures-for-swiftui-35bfc5102b83)
 
@@ -577,7 +577,7 @@ SwiftUI is a user interface toolkit that lets us design apps in a **declarative 
 
 ## Useful Cheat Sheet for SwiftUI
 
-* [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) ⭐ 4,467 | 🐛 3 | 📅 2022-09-04
+* [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) ⭐ 4,466 | 🐛 3 | 📅 2022-09-04
 * [Fucking SwiftUI](https://fuckingswiftui.com/) Cheat Sheet for SwiftUI
 * [Gosh Darn SwiftUI](https://goshdarnswiftui.com/) Cheat Sheet for SwiftUI
 
@@ -643,7 +643,7 @@ TBA
 
 You can use [Bundle+Extension.swift](https://github.com/jphong1111/awesome-ios-developer/blob/main/Bundle%2BExtension.swift) file to configure your bundle to your application.
 
-> Source code from : [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) ⭐ 5,394 | 🐛 20 | 🌐 Swift | 📅 2026-05-25
+> Source code from : [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) ⭐ 5,395 | 🐛 20 | 🌐 Swift | 📅 2026-05-25
 
 * [Bundles and Packages](https://nshipster.com/bundles-and-packages/)
 
@@ -780,7 +780,7 @@ If you want to see how can I use Network Layer in Project, check [this](https://
 
 This reusable network layer files for referenced from [here](https://medium.com/flawless-app-stories/writing-network-layer-in-swift-protocol-oriented-approach-4fa40ef1f908)
 
-> Also [Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,395 | 🐛 43 | 🌐 Swift | 📅 2026-11-01 will be a great option for Network Layer!
+> Also [Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,399 | 🐛 43 | 🌐 Swift | 📅 2026-11-01 will be a great option for Network Layer!
 
 ## Image Picker
 
@@ -1034,7 +1034,7 @@ Here is a example of JSONSerialization with actaul JSON file in project folder
 
 This library provide JSON parsing
 
-* [SwifyJSON](https://github.com/SwiftyJSON/SwiftyJSON) ⭐ 22,922 | 🐛 140 | 🌐 Swift | 📅 2026-08-18
+* [SwifyJSON](https://github.com/SwiftyJSON/SwiftyJSON) ⭐ 22,921 | 🐛 140 | 🌐 Swift | 📅 2026-08-18
 
 <p align="right">
 <a href="#-content">Back to Content</a>
@@ -1419,7 +1419,7 @@ Third Party Library saves you time as you do not need to develop the functionali
 
 > Relying on library(abused) is not a good idea
 
-* [awesome ios github](https://github.com/vsouza/awesome-ios) ⭐ 53,858 | 🐛 34 | 🌐 Swift | 📅 2026-08-27 Contains all the popular libraries in Swift:+1:
+* [awesome ios github](https://github.com/vsouza/awesome-ios) ⭐ 53,870 | 🐛 34 | 🌐 Swift | 📅 2026-08-27 Contains all the popular libraries in Swift:+1:
 * [awesome swift site](https://swift.libhunt.com/) You can broswe popular libraries related to iOS
 * [Explore Swift](https://kandi.openweaver.com/explore/swift) Discover & find a curated list of popular & new libraries, top authors and trending discussions on kandi.
 
@@ -1465,7 +1465,7 @@ $ pod install
 
 ## Carthage
 
-* [Carthage](https://github.com/Carthage/Carthage) ⭐ 15,140 | 🐛 219 | 🌐 Swift | 📅 2025-09-10
+* [Carthage](https://github.com/Carthage/Carthage) ⭐ 15,139 | 🐛 219 | 🌐 Swift | 📅 2025-09-10
 * [Getting started with Carthage to manage dependencies in Swift and iOS](https://www.twilio.com/blog/2016/05/getting-started-with-carthage-to-manage-dependencies-in-swift-and-ios.html)
 * [Carthage Tutorial: Getting Started](https://www.raywenderlich.com/7649117-carthage-tutorial-getting-started)
 
@@ -1971,7 +1971,7 @@ You can integrate Circle CI into Github repo, therefore we can use it in PR.
 
 ## Danger
 
-[Danger](https://github.com/danger/danger) ⭐ 5,698 | 🐛 172 | 🌐 Ruby | 📅 2026-10-09
+[Danger](https://github.com/danger/danger) ⭐ 5,697 | 🐛 172 | 🌐 Ruby | 📅 2026-10-09
 
 * Danger runs after your CI, automating your team's conventions surrounding code review.
 
@@ -1995,7 +1995,7 @@ For more info, go to [Apple Developer Website](https://developer.apple.com/docum
 
 # Tuist
 
-* [Tuist Github](https://github.com/tuist/tuist) ⭐ 5,857 | 🐛 588 | 🌐 Elixir | 📅 2026-11-04
+* [Tuist Github](https://github.com/tuist/tuist) ⭐ 5,859 | 🐛 588 | 🌐 Elixir | 📅 2026-11-05
 
 * Tuist is a command line tool that helps you generate, maintain and interact with Xcode projects.
 
@@ -2239,7 +2239,7 @@ sessionManager.request("https://yourdomain.com").responseString { (dataResponse)
 
 TrustKit makes it easy to deploy SSL public key pinning
 
-[TrustKit](https://github.com/datatheorem/TrustKit) ⭐ 2,144 | 🐛 2 | 🌐 Objective-C | 📅 2026-11-03
+[TrustKit](https://github.com/datatheorem/TrustKit) ⭐ 2,145 | 🐛 2 | 🌐 Objective-C | 📅 2026-11-03
 
 ## Code Obfuscation
 
@@ -2406,7 +2406,7 @@ You can check the iOS Version adoption in this site
 > Now Apple officially support Preview\
 > [previews-in-xcode](https://developer.apple.com/documentation/swiftui/previews-in-xcode)
 
-[Inject (3rd Party Library)](https://github.com/krzysztofzablocki/Inject) ⭐ 3,493 | 🐛 0 | 🌐 Swift | 📅 2026-04-29
+[Inject (3rd Party Library)](https://github.com/krzysztofzablocki/Inject) ⭐ 3,492 | 🐛 0 | 🌐 Swift | 📅 2026-04-29
 
 Copy this code and Paste into your controller
 
@@ -2502,7 +2502,7 @@ For More Info, visit [here](https://www.raywenderlich.com/19998365-understanding
 
 ## Roadmap for iOS Developer
 
-check this out [here](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) ⭐ 6,414 | 🐛 11 | 🌐 Swift | 📅 2024-01-25
+check this out [here](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) ⭐ 6,415 | 🐛 11 | 🌐 Swift | 📅 2024-01-25
 
 ## Use VIM in Xcode
 
@@ -2550,4 +2550,4 @@ email: <ghdwjdvy96@gmail.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
