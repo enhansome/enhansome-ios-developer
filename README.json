@@ -50,7 +50,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-11-05T17:57:52Z",
-                "open_issues": 536,
+                "open_issues": 537,
                 "owner": "realm",
                 "repo": "SwiftLint",
                 "stars": 19779,
@@ -92,7 +92,7 @@
             "open_issues": 28,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 15006,
+            "stars": 15007,
             "topics": [
               "architecture",
               "composition",
@@ -122,7 +122,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4465,
+                "stars": 4464,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -330,7 +330,7 @@
             "open_issues": 33,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 53887,
+            "stars": 53894,
             "topics": [
               "apple-swift",
               "arkit",
@@ -439,24 +439,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Your platform team, as a service",
+            "description": "Less waiting, more shipping",
             "homepage": "https://tuist.dev",
             "id": 129699403,
             "language": "Elixir",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T02:50:45Z",
-            "open_issues": 591,
+            "last_commit": "2026-11-07T18:03:30Z",
+            "open_issues": 588,
             "owner": "tuist",
             "repo": "tuist",
-            "stars": 5859,
+            "stars": 5861,
             "topics": [
+              "bazel",
+              "cargo",
+              "elixir",
               "gradle",
-              "ios",
-              "objective-c",
-              "productivity",
-              "scalability",
-              "swift",
-              "xcode"
+              "once",
+              "xcodebuild"
             ]
           },
           "first_seen": "2026-10-05T02:06:15.461Z"
@@ -485,7 +484,7 @@
                 "open_issues": 19,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24627,
+                "stars": 24628,
                 "topics": [
                   "functional",
                   "ios",
@@ -717,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T02:55:03.097Z",
+    "last_updated": "2026-11-08T02:33:13.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
