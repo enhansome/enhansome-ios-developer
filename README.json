@@ -50,10 +50,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-11-05T17:57:52Z",
-                "open_issues": 537,
+                "open_issues": 538,
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19779,
+                "stars": 19782,
                 "topics": [
                   "code-quality",
                   "hacktoberfest",
@@ -92,7 +92,7 @@
             "open_issues": 28,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 15007,
+            "stars": 15008,
             "topics": [
               "architecture",
               "composition",
@@ -122,7 +122,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4464,
+                "stars": 4463,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -330,7 +330,7 @@
             "open_issues": 33,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 53894,
+            "stars": 53910,
             "topics": [
               "apple-swift",
               "arkit",
@@ -367,7 +367,7 @@
                 "open_issues": 219,
                 "owner": "Carthage",
                 "repo": "Carthage",
-                "stars": 15138,
+                "stars": 15136,
                 "topics": [
                   "carthage",
                   "cocoa",
@@ -444,8 +444,8 @@
             "id": 129699403,
             "language": "Elixir",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T18:03:30Z",
-            "open_issues": 588,
+            "last_commit": "2026-11-08T23:19:55Z",
+            "open_issues": 590,
             "owner": "tuist",
             "repo": "tuist",
             "stars": 5861,
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:33:13.414Z",
+    "last_updated": "2026-11-09T02:44:41.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
