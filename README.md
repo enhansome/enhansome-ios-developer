@@ -244,7 +244,7 @@ The way of force you to adapt coding convention
 
 > otherwise project build will **FAILED**
 
-* [Swift Lint](https://github.com/realm/SwiftLint) ⭐ 19,788 | 🐛 540 | 🌐 Swift | 📅 2026-11-05 apply for all project:+1:
+* [Swift Lint](https://github.com/realm/SwiftLint) ⭐ 19,787 | 🐛 540 | 🌐 Swift | 📅 2026-11-05 apply for all project:+1:
 
 ```swift
 if which swiftlint >/dev/null; then
@@ -473,7 +473,7 @@ Swift-DocC is a documentation compiler for Swift frameworks and packages aimed a
 
 Simple goes to Product-Build Documentation and DocC will open
 
-* [Swift DocC Apple Github](https://github.com/apple/swift-docc) ⭐ 1,371 | 🐛 136 | 🌐 Swift | 📅 2026-11-11
+* [Swift DocC Apple Github](https://github.com/apple/swift-docc) ⭐ 1,371 | 🐛 137 | 🌐 Swift | 📅 2026-11-12
 * [DocC Tutorial for Swift : Getting Started](https://www.kodeco.com/34919511-docc-tutorial-for-swift-getting-started)
 
 ## Code Structuring(Architecture)
@@ -541,7 +541,7 @@ The Composable Architecture is a library for building applications in a consiste
 
  <img src="https://github.com/jphong1111/Useful_Swift/blob/main/Images/SCA.png">
 
-* [The Composable Architecture GitHub](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,015 | 🐛 28 | 🌐 Swift | 📅 2026-11-05
+* [The Composable Architecture GitHub](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,018 | 🐛 28 | 🌐 Swift | 📅 2026-11-05
 * [Composable Architecture @ Point Free](https://www.pointfree.co/collections/composable-architecture)
 * [The Composable Architecture — One of the Best-Suited Architectures for SwiftUI](https://medium.com/swlh/the-composable-architecture-one-of-the-best-suited-architectures-for-swiftui-35bfc5102b83)
 
@@ -643,7 +643,7 @@ TBA
 
 You can use [Bundle+Extension.swift](https://github.com/jphong1111/awesome-ios-developer/blob/main/Bundle%2BExtension.swift) file to configure your bundle to your application.
 
-> Source code from : [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) ⭐ 5,400 | 🐛 20 | 🌐 Swift | 📅 2026-05-25
+> Source code from : [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) ⭐ 5,402 | 🐛 20 | 🌐 Swift | 📅 2026-05-25
 
 * [Bundles and Packages](https://nshipster.com/bundles-and-packages/)
 
@@ -671,7 +671,7 @@ All files are resuable files and protocol oriented. **Just Copy and Paste inside
 
 You can check the file in the follow link
 
-* [Email, Message, Call](https://github.com/jphong1111/Useful_Swift/blob/main/Helper/ConversationHandler/ConversationManager.swift) ⭐ 847 | 🐛 11 | 🌐 Swift | 📅 2026-10-04
+* [Email, Message, Call](https://github.com/jphong1111/Useful_Swift/blob/main/Helper/ConversationHandler/ConversationManager.swift) ⭐ 847 | 🐛 12 | 🌐 Swift | 📅 2026-10-04
 
 ### Usage
 
@@ -709,7 +709,7 @@ Good To GO 👏👏👏
 
 ## Network Layer
 
-* [Network Layer](https://github.com/jphong1111/Useful_Swift/tree/main/Helper/Network%20Layer) ⭐ 847 | 🐛 11 | 🌐 Swift | 📅 2026-10-04
+* [Network Layer](https://github.com/jphong1111/Useful_Swift/tree/main/Helper/Network%20Layer) ⭐ 847 | 🐛 12 | 🌐 Swift | 📅 2026-10-04
 
 ### Usage
 
@@ -784,7 +784,7 @@ This reusable network layer files for referenced from [here](https://medium.com/
 
 ## Image Picker
 
-* [Image Picker](https://github.com/jphong1111/Useful_Swift/blob/main/Helper/ImagePickerHandler/ImagePicker.swift) ⭐ 847 | 🐛 11 | 🌐 Swift | 📅 2026-10-04
+* [Image Picker](https://github.com/jphong1111/Useful_Swift/blob/main/Helper/ImagePickerHandler/ImagePicker.swift) ⭐ 847 | 🐛 12 | 🌐 Swift | 📅 2026-10-04
 
 ### Usage
 
@@ -869,7 +869,7 @@ Good To GO 👏👏👏
 
 ## Location Manager
 
-* ~~[Location Manager](https://github.com/jphong1111/Useful_Swift/tree/main/Helper/LocationHandler/LocationManager.swift) ⭐ 847 | 🐛 11 | 🌐 Swift | 📅 2026-10-04~~
+* ~~[Location Manager](https://github.com/jphong1111/Useful_Swift/tree/main/Helper/LocationHandler/LocationManager.swift) ⭐ 847 | 🐛 12 | 🌐 Swift | 📅 2026-10-04~~
 
 Currently Working
 
@@ -1034,7 +1034,7 @@ Here is a example of JSONSerialization with actaul JSON file in project folder
 
 This library provide JSON parsing
 
-* [SwifyJSON](https://github.com/SwiftyJSON/SwiftyJSON) ⭐ 22,919 | 🐛 140 | 🌐 Swift | 📅 2026-08-18
+* [SwifyJSON](https://github.com/SwiftyJSON/SwiftyJSON) ⭐ 22,920 | 🐛 140 | 🌐 Swift | 📅 2026-08-18
 
 <p align="right">
 <a href="#-content">Back to Content</a>
@@ -1419,7 +1419,7 @@ Third Party Library saves you time as you do not need to develop the functionali
 
 > Relying on library(abused) is not a good idea
 
-* [awesome ios github](https://github.com/vsouza/awesome-ios) ⭐ 53,952 | 🐛 34 | 🌐 Swift | 📅 2026-08-27 Contains all the popular libraries in Swift:+1:
+* [awesome ios github](https://github.com/vsouza/awesome-ios) ⭐ 53,967 | 🐛 35 | 🌐 Swift | 📅 2026-08-27 Contains all the popular libraries in Swift:+1:
 * [awesome swift site](https://swift.libhunt.com/) You can broswe popular libraries related to iOS
 * [Explore Swift](https://kandi.openweaver.com/explore/swift) Discover & find a curated list of popular & new libraries, top authors and trending discussions on kandi.
 
@@ -1465,7 +1465,7 @@ $ pod install
 
 ## Carthage
 
-* [Carthage](https://github.com/Carthage/Carthage) ⭐ 15,138 | 🐛 219 | 🌐 Swift | 📅 2025-09-10
+* [Carthage](https://github.com/Carthage/Carthage) ⭐ 15,136 | 🐛 219 | 🌐 Swift | 📅 2025-09-10
 * [Getting started with Carthage to manage dependencies in Swift and iOS](https://www.twilio.com/blog/2016/05/getting-started-with-carthage-to-manage-dependencies-in-swift-and-ios.html)
 * [Carthage Tutorial: Getting Started](https://www.raywenderlich.com/7649117-carthage-tutorial-getting-started)
 
@@ -1995,7 +1995,7 @@ For more info, go to [Apple Developer Website](https://developer.apple.com/docum
 
 # Tuist
 
-* [Tuist Github](https://github.com/tuist/tuist) ⭐ 5,864 | 🐛 599 | 🌐 Elixir | 📅 2026-11-12
+* [Tuist Github](https://github.com/tuist/tuist) ⭐ 5,865 | 🐛 600 | 🌐 Elixir | 📅 2026-11-13
 
 * Tuist is a command line tool that helps you generate, maintain and interact with Xcode projects.
 
@@ -2073,7 +2073,7 @@ Functional Reactive Programming
 
 ## Rxswift
 
-* [RxSwift](https://github.com/ReactiveX/RxSwift) ⭐ 24,627 | 🐛 19 | 🌐 Swift | 📅 2026-09-04 - Github Repository
+* [RxSwift](https://github.com/ReactiveX/RxSwift) ⭐ 24,629 | 🐛 19 | 🌐 Swift | 📅 2026-09-04 - Github Repository
 * [RxSwift raywenderlich](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift/v4.0)
 * [RxSwift](http://reactivex.io/intro.html) - Website
 
@@ -2359,7 +2359,7 @@ Bridging header means access classes and other declarations from your Objective-
 
 Find your common error here
 
-[Error Search](https://github.com/jphong1111/Useful_Swift/blob/error-search/README.md) ⭐ 847 | 🐛 11 | 🌐 Swift | 📅 2026-10-04
+[Error Search](https://github.com/jphong1111/Useful_Swift/blob/error-search/README.md) ⭐ 847 | 🐛 12 | 🌐 Swift | 📅 2026-10-04
 
 # Useful Stuff
 
@@ -2406,7 +2406,7 @@ You can check the iOS Version adoption in this site
 > Now Apple officially support Preview\
 > [previews-in-xcode](https://developer.apple.com/documentation/swiftui/previews-in-xcode)
 
-[Inject (3rd Party Library)](https://github.com/krzysztofzablocki/Inject) ⭐ 3,492 | 🐛 0 | 🌐 Swift | 📅 2026-04-29
+[Inject (3rd Party Library)](https://github.com/krzysztofzablocki/Inject) ⭐ 3,491 | 🐛 0 | 🌐 Swift | 📅 2026-04-29
 
 Copy this code and Paste into your controller
 
@@ -2550,4 +2550,4 @@ email: <ghdwjdvy96@gmail.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
