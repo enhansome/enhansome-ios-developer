@@ -49,11 +49,11 @@
                 "id": 35732214,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-05T17:57:52Z",
-                "open_issues": 540,
+                "last_commit": "2026-11-13T14:52:26Z",
+                "open_issues": 541,
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19787,
+                "stars": 19791,
                 "topics": [
                   "code-quality",
                   "hacktoberfest",
@@ -92,7 +92,7 @@
             "open_issues": 28,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 15018,
+            "stars": 15019,
             "topics": [
               "architecture",
               "composition",
@@ -330,7 +330,7 @@
             "open_issues": 35,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 53967,
+            "stars": 53980,
             "topics": [
               "apple-swift",
               "arkit",
@@ -442,13 +442,13 @@
             "description": "Tuist builds infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents. Shared cache, tests, and insights that sit alongside your existing CI.",
             "homepage": "https://tuist.dev",
             "id": 129699403,
-            "language": "Elixir",
+            "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T03:23:39Z",
-            "open_issues": 600,
+            "last_commit": "2026-11-13T23:20:09Z",
+            "open_issues": 599,
             "owner": "tuist",
             "repo": "tuist",
-            "stars": 5865,
+            "stars": 5864,
             "topics": [
               "bazel",
               "build-cache",
@@ -487,8 +487,8 @@
                 "id": 33569135,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-04T18:37:03Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-13T17:31:35Z",
+                "open_issues": 20,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
                 "stars": 24629,
@@ -664,7 +664,7 @@
                 "open_issues": 0,
                 "owner": "krzysztofzablocki",
                 "repo": "Inject",
-                "stars": 3491,
+                "stars": 3493,
                 "topics": [
                   "hot-reload",
                   "ios",
@@ -697,7 +697,7 @@
                 "open_issues": 210,
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4458,
+                "stars": 4459,
                 "topics": [
                   "atom",
                   "atom-package",
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:27:00.712Z",
+    "last_updated": "2026-11-14T03:22:58.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
