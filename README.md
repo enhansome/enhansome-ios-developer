@@ -473,7 +473,7 @@ Swift-DocC is a documentation compiler for Swift frameworks and packages aimed a
 
 Simple goes to Product-Build Documentation and DocC will open
 
-* [Swift DocC Apple Github](https://github.com/apple/swift-docc) ⭐ 1,371 | 🐛 137 | 🌐 Swift | 📅 2026-11-12
+* [Swift DocC Apple Github](https://github.com/apple/swift-docc) ⭐ 1,372 | 🐛 137 | 🌐 Swift | 📅 2026-11-12
 * [DocC Tutorial for Swift : Getting Started](https://www.kodeco.com/34919511-docc-tutorial-for-swift-getting-started)
 
 ## Code Structuring(Architecture)
@@ -541,7 +541,7 @@ The Composable Architecture is a library for building applications in a consiste
 
  <img src="https://github.com/jphong1111/Useful_Swift/blob/main/Images/SCA.png">
 
-* [The Composable Architecture GitHub](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,019 | 🐛 28 | 🌐 Swift | 📅 2026-11-05
+* [The Composable Architecture GitHub](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,020 | 🐛 28 | 🌐 Swift | 📅 2026-11-05
 * [Composable Architecture @ Point Free](https://www.pointfree.co/collections/composable-architecture)
 * [The Composable Architecture — One of the Best-Suited Architectures for SwiftUI](https://medium.com/swlh/the-composable-architecture-one-of-the-best-suited-architectures-for-swiftui-35bfc5102b83)
 
@@ -780,7 +780,7 @@ If you want to see how can I use Network Layer in Project, check [this](https://
 
 This reusable network layer files for referenced from [here](https://medium.com/flawless-app-stories/writing-network-layer-in-swift-protocol-oriented-approach-4fa40ef1f908)
 
-> Also [Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,399 | 🐛 44 | 🌐 Swift | 📅 2026-11-14 will be a great option for Network Layer!
+> Also [Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,399 | 🐛 44 | 🌐 Swift | 📅 2026-11-15 will be a great option for Network Layer!
 
 ## Image Picker
 
@@ -1034,7 +1034,7 @@ Here is a example of JSONSerialization with actaul JSON file in project folder
 
 This library provide JSON parsing
 
-* [SwifyJSON](https://github.com/SwiftyJSON/SwiftyJSON) ⭐ 22,919 | 🐛 140 | 🌐 Swift | 📅 2026-08-18
+* [SwifyJSON](https://github.com/SwiftyJSON/SwiftyJSON) ⭐ 22,918 | 🐛 140 | 🌐 Swift | 📅 2026-08-18
 
 <p align="right">
 <a href="#-content">Back to Content</a>
@@ -1419,7 +1419,7 @@ Third Party Library saves you time as you do not need to develop the functionali
 
 > Relying on library(abused) is not a good idea
 
-* [awesome ios github](https://github.com/vsouza/awesome-ios) ⭐ 53,980 | 🐛 35 | 🌐 Swift | 📅 2026-08-27 Contains all the popular libraries in Swift:+1:
+* [awesome ios github](https://github.com/vsouza/awesome-ios) ⭐ 53,986 | 🐛 35 | 🌐 Swift | 📅 2026-08-27 Contains all the popular libraries in Swift:+1:
 * [awesome swift site](https://swift.libhunt.com/) You can broswe popular libraries related to iOS
 * [Explore Swift](https://kandi.openweaver.com/explore/swift) Discover & find a curated list of popular & new libraries, top authors and trending discussions on kandi.
 
@@ -1995,7 +1995,7 @@ For more info, go to [Apple Developer Website](https://developer.apple.com/docum
 
 # Tuist
 
-* [Tuist Github](https://github.com/tuist/tuist) ⭐ 5,864 | 🐛 599 | 🌐 Rust | 📅 2026-11-13
+* [Tuist Github](https://github.com/tuist/tuist) ⭐ 5,864 | 🐛 596 | 🌐 Rust | 📅 2026-11-14
 
 * Tuist is a command line tool that helps you generate, maintain and interact with Xcode projects.
 
@@ -2502,7 +2502,7 @@ For More Info, visit [here](https://www.raywenderlich.com/19998365-understanding
 
 ## Roadmap for iOS Developer
 
-check this out [here](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) ⭐ 6,413 | 🐛 11 | 🌐 Swift | 📅 2024-01-25
+check this out [here](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) ⭐ 6,412 | 🐛 11 | 🌐 Swift | 📅 2024-01-25
 
 ## Use VIM in Xcode
 
@@ -2550,4 +2550,4 @@ email: <ghdwjdvy96@gmail.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

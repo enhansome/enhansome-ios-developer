@@ -92,7 +92,7 @@
             "open_issues": 28,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 15019,
+            "stars": 15020,
             "topics": [
               "architecture",
               "composition",
@@ -330,7 +330,7 @@
             "open_issues": 35,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 53980,
+            "stars": 53986,
             "topics": [
               "apple-swift",
               "arkit",
@@ -444,8 +444,8 @@
             "id": 129699403,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T23:20:09Z",
-            "open_issues": 599,
+            "last_commit": "2026-11-14T22:06:21Z",
+            "open_issues": 596,
             "owner": "tuist",
             "repo": "tuist",
             "stars": 5864,
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T03:22:58.897Z",
+    "last_updated": "2026-11-15T02:49:48.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
