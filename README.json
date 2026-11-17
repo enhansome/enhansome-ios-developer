@@ -53,7 +53,7 @@
                 "open_issues": 541,
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19791,
+                "stars": 19792,
                 "topics": [
                   "code-quality",
                   "hacktoberfest",
@@ -92,7 +92,7 @@
             "open_issues": 28,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 15022,
+            "stars": 15024,
             "topics": [
               "architecture",
               "composition",
@@ -330,7 +330,7 @@
             "open_issues": 35,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 53994,
+            "stars": 54014,
             "topics": [
               "apple-swift",
               "arkit",
@@ -406,7 +406,7 @@
                 "open_issues": 166,
                 "owner": "danger",
                 "repo": "danger",
-                "stars": 5696,
+                "stars": 5697,
                 "topics": [
                   "automation",
                   "bitbucket",
@@ -444,11 +444,11 @@
             "id": 129699403,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T01:39:45Z",
-            "open_issues": 597,
+            "last_commit": "2026-11-17T04:33:04Z",
+            "open_issues": 595,
             "owner": "tuist",
             "repo": "tuist",
-            "stars": 5866,
+            "stars": 5867,
             "topics": [
               "bazel",
               "build-cache",
@@ -577,7 +577,7 @@
                     "open_issues": 2,
                     "owner": "datatheorem",
                     "repo": "TrustKit",
-                    "stars": 2146,
+                    "stars": 2147,
                     "topics": [
                       "ios",
                       "macos",
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T02:51:37.241Z",
+    "last_updated": "2026-11-17T05:07:16.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
