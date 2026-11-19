@@ -92,7 +92,7 @@
             "open_issues": 28,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 15026,
+            "stars": 15029,
             "topics": [
               "architecture",
               "composition",
@@ -330,7 +330,7 @@
             "open_issues": 35,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 54026,
+            "stars": 54039,
             "topics": [
               "apple-swift",
               "arkit",
@@ -367,7 +367,7 @@
                 "open_issues": 219,
                 "owner": "Carthage",
                 "repo": "Carthage",
-                "stars": 15140,
+                "stars": 15139,
                 "topics": [
                   "carthage",
                   "cocoa",
@@ -402,8 +402,8 @@
                 "id": 43347873,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-15T06:07:23Z",
-                "open_issues": 166,
+                "last_commit": "2026-11-18T12:34:36Z",
+                "open_issues": 157,
                 "owner": "danger",
                 "repo": "danger",
                 "stars": 5697,
@@ -442,10 +442,10 @@
             "description": "Tuist builds infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents. Shared cache, tests, and insights that sit alongside your existing CI.",
             "homepage": "https://tuist.dev",
             "id": 129699403,
-            "language": "Rust",
+            "language": "Elixir",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T04:07:05Z",
-            "open_issues": 592,
+            "last_commit": "2026-11-19T04:07:56Z",
+            "open_issues": 596,
             "owner": "tuist",
             "repo": "tuist",
             "stars": 5868,
@@ -491,7 +491,7 @@
                 "open_issues": 20,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24630,
+                "stars": 24629,
                 "topics": [
                   "functional",
                   "ios",
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T04:33:03.687Z",
+    "last_updated": "2026-11-19T04:15:35.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
