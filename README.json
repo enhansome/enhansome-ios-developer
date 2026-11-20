@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "linkedin",
                 "repo": "swift-style-guide",
-                "stars": 1455,
+                "stars": 1454,
                 "topics": [
                   "ios",
                   "style-guide",
@@ -53,7 +53,7 @@
                 "open_issues": 541,
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19793,
+                "stars": 19794,
                 "topics": [
                   "code-quality",
                   "hacktoberfest",
@@ -92,7 +92,7 @@
             "open_issues": 28,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 15029,
+            "stars": 15031,
             "topics": [
               "architecture",
               "composition",
@@ -330,7 +330,7 @@
             "open_issues": 35,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 54039,
+            "stars": 54047,
             "topics": [
               "apple-swift",
               "arkit",
@@ -444,8 +444,8 @@
             "id": 129699403,
             "language": "Elixir",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T04:07:56Z",
-            "open_issues": 596,
+            "last_commit": "2026-11-20T03:14:36Z",
+            "open_issues": 285,
             "owner": "tuist",
             "repo": "tuist",
             "stars": 5868,
@@ -491,7 +491,7 @@
                 "open_issues": 20,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24629,
+                "stars": 24625,
                 "topics": [
                   "functional",
                   "ios",
@@ -577,7 +577,7 @@
                     "open_issues": 2,
                     "owner": "datatheorem",
                     "repo": "TrustKit",
-                    "stars": 2147,
+                    "stars": 2146,
                     "topics": [
                       "ios",
                       "macos",
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T04:15:35.292Z",
+    "last_updated": "2026-11-20T04:03:04.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
