@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "linkedin",
                 "repo": "swift-style-guide",
-                "stars": 1454,
+                "stars": 1453,
                 "topics": [
                   "ios",
                   "style-guide",
@@ -53,7 +53,7 @@
                 "open_issues": 530,
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19796,
+                "stars": 19798,
                 "topics": [
                   "code-quality",
                   "hacktoberfest",
@@ -122,7 +122,7 @@
                 "open_issues": 3,
                 "owner": "SimpleBoilerplates",
                 "repo": "SwiftUI-Cheat-Sheet",
-                "stars": 4461,
+                "stars": 4460,
                 "topics": [
                   "declarative-ui",
                   "swift",
@@ -330,7 +330,7 @@
             "open_issues": 35,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 54111,
+            "stars": 54118,
             "topics": [
               "apple-swift",
               "arkit",
@@ -367,7 +367,7 @@
                 "open_issues": 219,
                 "owner": "Carthage",
                 "repo": "Carthage",
-                "stars": 15141,
+                "stars": 15140,
                 "topics": [
                   "carthage",
                   "cocoa",
@@ -406,7 +406,7 @@
                 "open_issues": 159,
                 "owner": "danger",
                 "repo": "danger",
-                "stars": 5696,
+                "stars": 5695,
                 "topics": [
                   "automation",
                   "bitbucket",
@@ -444,8 +444,8 @@
             "id": 129699403,
             "language": "Elixir",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T05:03:30Z",
-            "open_issues": 298,
+            "last_commit": "2026-11-27T02:11:38Z",
+            "open_issues": 295,
             "owner": "tuist",
             "repo": "tuist",
             "stars": 5870,
@@ -664,7 +664,7 @@
                 "open_issues": 0,
                 "owner": "krzysztofzablocki",
                 "repo": "Inject",
-                "stars": 3495,
+                "stars": 3497,
                 "topics": [
                   "hot-reload",
                   "ios",
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T05:11:33.446Z",
+    "last_updated": "2026-11-27T05:09:02.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",
