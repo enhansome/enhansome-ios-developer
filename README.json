@@ -49,11 +49,11 @@
                 "id": 35732214,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-24T16:41:44Z",
+                "last_commit": "2026-11-27T20:27:22Z",
                 "open_issues": 530,
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19798,
+                "stars": 19802,
                 "topics": [
                   "code-quality",
                   "hacktoberfest",
@@ -92,7 +92,7 @@
             "open_issues": 30,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 15044,
+            "stars": 15046,
             "topics": [
               "architecture",
               "composition",
@@ -330,7 +330,7 @@
             "open_issues": 35,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 54118,
+            "stars": 54131,
             "topics": [
               "apple-swift",
               "arkit",
@@ -406,7 +406,7 @@
                 "open_issues": 159,
                 "owner": "danger",
                 "repo": "danger",
-                "stars": 5695,
+                "stars": 5696,
                 "topics": [
                   "automation",
                   "bitbucket",
@@ -444,8 +444,8 @@
             "id": 129699403,
             "language": "Elixir",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-27T02:11:38Z",
-            "open_issues": 295,
+            "last_commit": "2026-11-28T04:36:01Z",
+            "open_issues": 296,
             "owner": "tuist",
             "repo": "tuist",
             "stars": 5870,
@@ -491,7 +491,7 @@
                 "open_issues": 19,
                 "owner": "ReactiveX",
                 "repo": "RxSwift",
-                "stars": 24624,
+                "stars": 24625,
                 "topics": [
                   "functional",
                   "ios",
@@ -664,7 +664,7 @@
                 "open_issues": 0,
                 "owner": "krzysztofzablocki",
                 "repo": "Inject",
-                "stars": 3497,
+                "stars": 3498,
                 "topics": [
                   "hot-reload",
                   "ios",
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T05:09:02.188Z",
+    "last_updated": "2026-11-28T04:46:16.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome iOS & Swift stuff!!",

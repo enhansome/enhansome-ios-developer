@@ -244,7 +244,7 @@ The way of force you to adapt coding convention
 
 > otherwise project build will **FAILED**
 
-* [Swift Lint](https://github.com/realm/SwiftLint) ⭐ 19,798 | 🐛 530 | 🌐 Swift | 📅 2026-11-24 apply for all project:+1:
+* [Swift Lint](https://github.com/realm/SwiftLint) ⭐ 19,802 | 🐛 530 | 🌐 Swift | 📅 2026-11-27 apply for all project:+1:
 
 ```swift
 if which swiftlint >/dev/null; then
@@ -473,7 +473,7 @@ Swift-DocC is a documentation compiler for Swift frameworks and packages aimed a
 
 Simple goes to Product-Build Documentation and DocC will open
 
-* [Swift DocC Apple Github](https://github.com/apple/swift-docc) ⭐ 1,373 | 🐛 141 | 🌐 Swift | 📅 2026-11-26
+* [Swift DocC Apple Github](https://github.com/apple/swift-docc) ⭐ 1,373 | 🐛 145 | 🌐 Swift | 📅 2026-11-27
 * [DocC Tutorial for Swift : Getting Started](https://www.kodeco.com/34919511-docc-tutorial-for-swift-getting-started)
 
 ## Code Structuring(Architecture)
@@ -541,7 +541,7 @@ The Composable Architecture is a library for building applications in a consiste
 
  <img src="https://github.com/jphong1111/Useful_Swift/blob/main/Images/SCA.png">
 
-* [The Composable Architecture GitHub](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,044 | 🐛 30 | 🌐 Swift | 📅 2026-11-05
+* [The Composable Architecture GitHub](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,046 | 🐛 30 | 🌐 Swift | 📅 2026-11-05
 * [Composable Architecture @ Point Free](https://www.pointfree.co/collections/composable-architecture)
 * [The Composable Architecture — One of the Best-Suited Architectures for SwiftUI](https://medium.com/swlh/the-composable-architecture-one-of-the-best-suited-architectures-for-swiftui-35bfc5102b83)
 
@@ -780,7 +780,7 @@ If you want to see how can I use Network Layer in Project, check [this](https://
 
 This reusable network layer files for referenced from [here](https://medium.com/flawless-app-stories/writing-network-layer-in-swift-protocol-oriented-approach-4fa40ef1f908)
 
-> Also [Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,398 | 🐛 46 | 🌐 Swift | 📅 2026-11-18 will be a great option for Network Layer!
+> Also [Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,398 | 🐛 44 | 🌐 Swift | 📅 2026-11-27 will be a great option for Network Layer!
 
 ## Image Picker
 
@@ -1034,7 +1034,7 @@ Here is a example of JSONSerialization with actaul JSON file in project folder
 
 This library provide JSON parsing
 
-* [SwifyJSON](https://github.com/SwiftyJSON/SwiftyJSON) ⭐ 22,915 | 🐛 140 | 🌐 Swift | 📅 2026-08-18
+* [SwifyJSON](https://github.com/SwiftyJSON/SwiftyJSON) ⭐ 22,917 | 🐛 140 | 🌐 Swift | 📅 2026-08-18
 
 <p align="right">
 <a href="#-content">Back to Content</a>
@@ -1419,7 +1419,7 @@ Third Party Library saves you time as you do not need to develop the functionali
 
 > Relying on library(abused) is not a good idea
 
-* [awesome ios github](https://github.com/vsouza/awesome-ios) ⭐ 54,118 | 🐛 35 | 🌐 Swift | 📅 2026-08-27 Contains all the popular libraries in Swift:+1:
+* [awesome ios github](https://github.com/vsouza/awesome-ios) ⭐ 54,131 | 🐛 35 | 🌐 Swift | 📅 2026-08-27 Contains all the popular libraries in Swift:+1:
 * [awesome swift site](https://swift.libhunt.com/) You can broswe popular libraries related to iOS
 * [Explore Swift](https://kandi.openweaver.com/explore/swift) Discover & find a curated list of popular & new libraries, top authors and trending discussions on kandi.
 
@@ -1971,7 +1971,7 @@ You can integrate Circle CI into Github repo, therefore we can use it in PR.
 
 ## Danger
 
-[Danger](https://github.com/danger/danger) ⭐ 5,695 | 🐛 159 | 🌐 Ruby | 📅 2026-11-18
+[Danger](https://github.com/danger/danger) ⭐ 5,696 | 🐛 159 | 🌐 Ruby | 📅 2026-11-18
 
 * Danger runs after your CI, automating your team's conventions surrounding code review.
 
@@ -1995,7 +1995,7 @@ For more info, go to [Apple Developer Website](https://developer.apple.com/docum
 
 # Tuist
 
-* [Tuist Github](https://github.com/tuist/tuist) ⭐ 5,870 | 🐛 295 | 🌐 Elixir | 📅 2026-11-27
+* [Tuist Github](https://github.com/tuist/tuist) ⭐ 5,870 | 🐛 296 | 🌐 Elixir | 📅 2026-11-28
 
 * Tuist is a command line tool that helps you generate, maintain and interact with Xcode projects.
 
@@ -2073,7 +2073,7 @@ Functional Reactive Programming
 
 ## Rxswift
 
-* [RxSwift](https://github.com/ReactiveX/RxSwift) ⭐ 24,624 | 🐛 19 | 🌐 Swift | 📅 2026-11-13 - Github Repository
+* [RxSwift](https://github.com/ReactiveX/RxSwift) ⭐ 24,625 | 🐛 19 | 🌐 Swift | 📅 2026-11-13 - Github Repository
 * [RxSwift raywenderlich](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift/v4.0)
 * [RxSwift](http://reactivex.io/intro.html) - Website
 
@@ -2406,7 +2406,7 @@ You can check the iOS Version adoption in this site
 > Now Apple officially support Preview\
 > [previews-in-xcode](https://developer.apple.com/documentation/swiftui/previews-in-xcode)
 
-[Inject (3rd Party Library)](https://github.com/krzysztofzablocki/Inject) ⭐ 3,497 | 🐛 0 | 🌐 Swift | 📅 2026-04-29
+[Inject (3rd Party Library)](https://github.com/krzysztofzablocki/Inject) ⭐ 3,498 | 🐛 0 | 🌐 Swift | 📅 2026-04-29
 
 Copy this code and Paste into your controller
 
@@ -2550,4 +2550,4 @@ email: <ghdwjdvy96@gmail.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
